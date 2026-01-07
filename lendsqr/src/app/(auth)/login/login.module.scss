@@ -104,7 +104,8 @@ button{
     position: relative;
     width: 100%;
    input{
-        width: 97%;
+        width: inherit;
+        
    }
     .show_password{
         position: absolute;
@@ -131,5 +132,126 @@ button{
         color: $primary-color;
         text-decoration: none;
         font-weight: 600;
+    }
+}
+
+@media (max-width: 1024px) {
+    .container {
+        .logo {
+            left: 2rem;
+            width: 120px;
+        }
+    }
+
+    .first_div {
+        .illustration {
+            width: 400px;
+            height: auto;
+        }
+    }
+
+    .second_div {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        .form_div {
+            width: 380px;
+        }
+    }
+
+    .welcome_text {
+        font-size: 32px;
+    }
+
+    .details {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+        padding: 20px;
+
+        .logo {
+            position: relative;
+            top: 0;
+            left: 0;
+            width: 100px;
+            margin-bottom: 20px;
+        }
+    }
+
+    .first_div {
+        display: none;
+    }
+
+    .second_div {
+        .form_div {
+            width: 100%;
+            max-width: 400px;
+            position: relative;
+            top: 0;
+            left: 0;
+            transform: none;
+        }
+    }
+
+    .welcome_text {
+        font-size: 28px;
+    }
+
+    .details {
+        font-size: 16px;
+        padding-bottom: 30px;
+    }
+
+    .form {
+        input {
+            height: 45px;
+            font-size: 14px;
+        }
+
+        button {
+            height: 45px;
+            font-size: 14px;
+        }
+    }
+
+    .password_container {
+        input {
+            width: 100%;
+        }
+    }
+}
+
+// Small mobile responsive
+@media (max-width: 480px) {
+    .container {
+        padding: 15px;
+    }
+
+    .welcome_text {
+        font-size: 24px;
+    }
+
+    .details {
+        font-size: 14px;
+    }
+
+    .form {
+        input {
+            height: 40px;
+            font-size: 14px;
+        }
+
+        button {
+            height: 40px;
+            font-size: 14px;
+        }
+    }
+
+    .signup_text {
+        font-size: 12px;
     }
 }
