@@ -1,0 +1,3802 @@
+[
+  {
+    "id": "695ed76fa842c20a5181d6c6",
+    "organization": "Terascape",
+    "fullName": "Bridges Schmidt",
+    "username": "bridges_schmidt",
+    "email": "bridges_schmidt@terascape.town",
+    "phone": "07059379984",
+    "bvn": "58559121349",
+    "gender": "Female",
+    "dateJoined": "Aug 25, 2022 07:05 AM",
+    "status": "Inactive",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 0,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Retail and Wholesale",
+        "durationOfEmployment": "5 years",
+        "monthlyIncome": "₦59344 - ₦381967",
+        "loanRepayment": "₦25147"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Jill Patton",
+        "phone": "07074800104",
+        "email": "jill_patton@gmail.com",
+        "relationship": "Sister"
+      }
+    },
+    "createdAt": "2018-10-17T02:50:44.616Z"
+  },
+  {
+    "id": "695ed76fadfcd824701e1fb4",
+    "organization": "Quotezart",
+    "fullName": "Annie Zimmerman",
+    "username": "annie_zimmerman",
+    "email": "annie_zimmerman@quotezart.gd",
+    "phone": "07073183870",
+    "bvn": "87523030685",
+    "gender": "Male",
+    "dateJoined": "Jan 13, 2022 12:38 PM",
+    "status": "Pending",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 3,
+        "residence": "Owned Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "HND",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Construction",
+        "durationOfEmployment": "3 years",
+        "monthlyIncome": "₦97622 - ₦355566",
+        "loanRepayment": "₦70032"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Phelps David",
+        "phone": "07051755987",
+        "email": "phelps_david@gmail.com",
+        "relationship": "Sister"
+      }
+    },
+    "createdAt": "2019-09-27T05:12:51.594Z"
+  },
+  {
+    "id": "695ed76f0cb5100c395011ed",
+    "organization": "Comdom",
+    "fullName": "Hunter Willis",
+    "username": "hunter_willis",
+    "email": "hunter_willis@comdom.voting",
+    "phone": "07010241664",
+    "bvn": "51801518850",
+    "gender": "Male",
+    "dateJoined": "Jul 08, 2024 10:48 AM",
+    "status": "Inactive",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 4,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Forestry",
+        "durationOfEmployment": "2 years",
+        "monthlyIncome": "₦74496 - ₦384086",
+        "loanRepayment": "₦93393"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Norma Dunn",
+        "phone": "07058224676",
+        "email": "norma_dunn@gmail.com",
+        "relationship": "Sister"
+      }
+    },
+    "createdAt": "2020-01-29T19:00:54.648Z"
+  },
+  {
+    "id": "695ed76f982591838c3cfb0e",
+    "organization": "Quiltigen",
+    "fullName": "Jaime Frost",
+    "username": "jaime_frost",
+    "email": "jaime_frost@quiltigen.dance",
+    "phone": "07036250663",
+    "bvn": "13505264962",
+    "gender": "Female",
+    "dateJoined": "Dec 16, 2024 08:32 AM",
+    "status": "Inactive",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 3,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "HND",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Tourism",
+        "durationOfEmployment": "3 years",
+        "monthlyIncome": "₦79822 - ₦437957",
+        "loanRepayment": "₦85538"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Wanda Crosby",
+        "phone": "07062129506",
+        "email": "wanda_crosby@gmail.com",
+        "relationship": "Parent"
+      }
+    },
+    "createdAt": "2022-07-24T16:40:50.516Z"
+  },
+  {
+    "id": "695ed76fdb65e62634341b2b",
+    "organization": "Exozent",
+    "fullName": "Burris Ramsey",
+    "username": "burris_ramsey",
+    "email": "burris_ramsey@exozent.praxi",
+    "phone": "07056134332",
+    "bvn": "76967164162",
+    "gender": "Male",
+    "dateJoined": "Jan 26, 2020 12:59 AM",
+    "status": "Inactive",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 4,
+        "residence": "Owned Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Social Assistance",
+        "durationOfEmployment": "5 years",
+        "monthlyIncome": "₦26299 - ₦318292",
+        "loanRepayment": "₦79109"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Beryl Horn",
+        "phone": "07040613517",
+        "email": "beryl_horn@gmail.com",
+        "relationship": "Brother"
+      }
+    },
+    "createdAt": "2019-08-05T05:11:06.764Z"
+  },
+  {
+    "id": "695ed76fef65c9fce463f67f",
+    "organization": "Lexicondo",
+    "fullName": "Therese Guerrero",
+    "username": "therese_guerrero",
+    "email": "therese_guerrero@lexicondo.partners",
+    "phone": "07021687557",
+    "bvn": "34603325593",
+    "gender": "Female",
+    "dateJoined": "Jul 15, 2021 03:21 PM",
+    "status": "Inactive",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 1,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Forestry",
+        "durationOfEmployment": "2 years",
+        "monthlyIncome": "₦93769 - ₦400353",
+        "loanRepayment": "₦58006"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "James Durham",
+        "phone": "07080335883",
+        "email": "james_durham@gmail.com",
+        "relationship": "Brother"
+      }
+    },
+    "createdAt": "2024-11-22T19:56:09.970Z"
+  },
+  {
+    "id": "695ed76ffd9e3e7f2c5afbdd",
+    "organization": "Quilch",
+    "fullName": "Hoffman Knapp",
+    "username": "hoffman_knapp",
+    "email": "hoffman_knapp@quilch.se",
+    "phone": "07017627251",
+    "bvn": "80648026796",
+    "gender": "Female",
+    "dateJoined": "Jan 28, 2020 04:52 PM",
+    "status": "Blacklisted",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 1,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Accounting",
+        "durationOfEmployment": "2 years",
+        "monthlyIncome": "₦61943 - ₦247267",
+        "loanRepayment": "₦30990"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Herring Robles",
+        "phone": "07092265179",
+        "email": "herring_robles@gmail.com",
+        "relationship": "Parent"
+      }
+    },
+    "createdAt": "2024-09-23T21:51:25.524Z"
+  },
+  {
+    "id": "695ed76f099e70b69a079148",
+    "organization": "Martgo",
+    "fullName": "Lowe Potter",
+    "username": "lowe_potter",
+    "email": "lowe_potter@martgo.holiday",
+    "phone": "07060458607",
+    "bvn": "13161901708",
+    "gender": "Male",
+    "dateJoined": "Sep 14, 2020 05:50 AM",
+    "status": "Inactive",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 1,
+        "residence": "Owned Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "HND",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Social Assistance",
+        "durationOfEmployment": "2 years",
+        "monthlyIncome": "₦43398 - ₦489266",
+        "loanRepayment": "₦46572"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Pamela Pope",
+        "phone": "07082513305",
+        "email": "pamela_pope@gmail.com",
+        "relationship": "Friend"
+      }
+    },
+    "createdAt": "2024-06-12T00:07:39.370Z"
+  },
+  {
+    "id": "695ed76f893d474fc948ddb7",
+    "organization": "Oceanica",
+    "fullName": "Lawanda Charles",
+    "username": "lawanda_charles",
+    "email": "lawanda_charles@oceanica.events",
+    "phone": "07043435079",
+    "bvn": "60979441364",
+    "gender": "Male",
+    "dateJoined": "Jun 08, 2023 08:26 AM",
+    "status": "Inactive",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 2,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "HND",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Oil and Gas",
+        "durationOfEmployment": "1 years",
+        "monthlyIncome": "₦74768 - ₦362054",
+        "loanRepayment": "₦95651"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Mccray Jennings",
+        "phone": "07095623261",
+        "email": "mccray_jennings@gmail.com",
+        "relationship": "Sister"
+      }
+    },
+    "createdAt": "2024-01-03T20:24:04.150Z"
+  },
+  {
+    "id": "695ed76f47ac0efe00a6dcda",
+    "organization": "Geeknet",
+    "fullName": "Antoinette Wagner",
+    "username": "antoinette_wagner",
+    "email": "antoinette_wagner@geeknet.cuisinella",
+    "phone": "07065568210",
+    "bvn": "15530510950",
+    "gender": "Male",
+    "dateJoined": "Mar 20, 2019 07:10 PM",
+    "status": "Inactive",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 0,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Utilities (Power, Water, Waste)",
+        "durationOfEmployment": "4 years",
+        "monthlyIncome": "₦91497 - ₦335150",
+        "loanRepayment": "₦51069"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Ayers Montgomery",
+        "phone": "07057954977",
+        "email": "ayers_montgomery@gmail.com",
+        "relationship": "Brother"
+      }
+    },
+    "createdAt": "2018-11-04T15:06:53.935Z"
+  },
+  {
+    "id": "695ed76f4dedf9e9dae3b06f",
+    "organization": "Tellifly",
+    "fullName": "Kelli Caldwell",
+    "username": "kelli_caldwell",
+    "email": "kelli_caldwell@tellifly.gn",
+    "phone": "07035600083",
+    "bvn": "20013771665",
+    "gender": "Male",
+    "dateJoined": "Mar 28, 2025 11:28 PM",
+    "status": "Pending",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 4,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Fishing",
+        "durationOfEmployment": "2 years",
+        "monthlyIncome": "₦32279 - ₦252324",
+        "loanRepayment": "₦38889"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Irene Conway",
+        "phone": "07034170965",
+        "email": "irene_conway@gmail.com",
+        "relationship": "Brother"
+      }
+    },
+    "createdAt": "2020-09-11T22:51:51.113Z"
+  },
+  {
+    "id": "695ed76f93bc53484d2a28ef",
+    "organization": "Sealoud",
+    "fullName": "Colon Fisher",
+    "username": "colon_fisher",
+    "email": "colon_fisher@sealoud.sv",
+    "phone": "07093736354",
+    "bvn": "52960303429",
+    "gender": "Male",
+    "dateJoined": "Aug 12, 2019 06:10 AM",
+    "status": "Inactive",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 2,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "HND",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Fishing",
+        "durationOfEmployment": "3 years",
+        "monthlyIncome": "₦82981 - ₦430688",
+        "loanRepayment": "₦92215"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Curtis Cochran",
+        "phone": "07029232152",
+        "email": "curtis_cochran@gmail.com",
+        "relationship": "Brother"
+      }
+    },
+    "createdAt": "2018-02-23T00:26:18.883Z"
+  },
+  {
+    "id": "695ed76f1e729555a01a4afa",
+    "organization": "Prismatic",
+    "fullName": "Douglas Rutledge",
+    "username": "douglas_rutledge",
+    "email": "douglas_rutledge@prismatic.guru",
+    "phone": "07062274219",
+    "bvn": "72850615426",
+    "gender": "Male",
+    "dateJoined": "Oct 17, 2025 08:45 AM",
+    "status": "Inactive",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 3,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Public Administration (Government)",
+        "durationOfEmployment": "1 years",
+        "monthlyIncome": "₦81608 - ₦466860",
+        "loanRepayment": "₦68442"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Woodard Nelson",
+        "phone": "07028047497",
+        "email": "woodard_nelson@gmail.com",
+        "relationship": "Friend"
+      }
+    },
+    "createdAt": "2024-05-18T08:04:15.353Z"
+  },
+  {
+    "id": "695ed76f6fb89c02e7c7a85a",
+    "organization": "Emergent",
+    "fullName": "Tommie Blanchard",
+    "username": "tommie_blanchard",
+    "email": "tommie_blanchard@emergent.sc",
+    "phone": "07091426587",
+    "bvn": "19015253233",
+    "gender": "Female",
+    "dateJoined": "Sep 25, 2022 12:54 AM",
+    "status": "Blacklisted",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 0,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Legal Services",
+        "durationOfEmployment": "1 years",
+        "monthlyIncome": "₦31026 - ₦446659",
+        "loanRepayment": "₦52811"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Bruce Hardin",
+        "phone": "07039229086",
+        "email": "bruce_hardin@gmail.com",
+        "relationship": "Parent"
+      }
+    },
+    "createdAt": "2022-06-06T22:02:20.982Z"
+  },
+  {
+    "id": "695ed76f028e1479c13d2c0b",
+    "organization": "Zenco",
+    "fullName": "Bailey Herring",
+    "username": "bailey_herring",
+    "email": "bailey_herring@zenco.ga",
+    "phone": "07021478104",
+    "bvn": "55348624112",
+    "gender": "Male",
+    "dateJoined": "Aug 05, 2023 08:48 AM",
+    "status": "Inactive",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 3,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Logistics and Warehousing",
+        "durationOfEmployment": "3 years",
+        "monthlyIncome": "₦56192 - ₦440489",
+        "loanRepayment": "₦20236"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Shauna Baldwin",
+        "phone": "07034791028",
+        "email": "shauna_baldwin@gmail.com",
+        "relationship": "Sister"
+      }
+    },
+    "createdAt": "2018-01-07T10:39:35.046Z"
+  },
+  {
+    "id": "695ed76f63b931c7d00601ee",
+    "organization": "Synkgen",
+    "fullName": "Helene Glenn",
+    "username": "helene_glenn",
+    "email": "helene_glenn@synkgen.mr",
+    "phone": "07035612544",
+    "bvn": "24615329472",
+    "gender": "Male",
+    "dateJoined": "Jun 06, 2025 04:45 AM",
+    "status": "Pending",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 0,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Forestry",
+        "durationOfEmployment": "4 years",
+        "monthlyIncome": "₦46695 - ₦203433",
+        "loanRepayment": "₦98836"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Freeman Ruiz",
+        "phone": "07058056857",
+        "email": "freeman_ruiz@gmail.com",
+        "relationship": "Parent"
+      }
+    },
+    "createdAt": "2021-12-17T07:56:49.438Z"
+  },
+  {
+    "id": "695ed76f5673220b0a4b8e2c",
+    "organization": "Polarax",
+    "fullName": "Leann Leon",
+    "username": "leann_leon",
+    "email": "leann_leon@polarax.tc",
+    "phone": "07026826696",
+    "bvn": "98740391573",
+    "gender": "Male",
+    "dateJoined": "Feb 12, 2018 12:08 PM",
+    "status": "Pending",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 2,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "HND",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Non-profit and NGOs",
+        "durationOfEmployment": "5 years",
+        "monthlyIncome": "₦96269 - ₦425301",
+        "loanRepayment": "₦96148"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Knapp Kerr",
+        "phone": "07048036353",
+        "email": "knapp_kerr@gmail.com",
+        "relationship": "Brother"
+      }
+    },
+    "createdAt": "2023-08-11T14:28:07.137Z"
+  },
+  {
+    "id": "695ed76f2dc8ae2992dbee88",
+    "organization": "Cinaster",
+    "fullName": "Hayden Hahn",
+    "username": "hayden_hahn",
+    "email": "hayden_hahn@cinaster.ec",
+    "phone": "07064661807",
+    "bvn": "37326631520",
+    "gender": "Male",
+    "dateJoined": "Oct 04, 2025 03:58 PM",
+    "status": "Active",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 3,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "HND",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Forestry",
+        "durationOfEmployment": "2 years",
+        "monthlyIncome": "₦76682 - ₦496453",
+        "loanRepayment": "₦30764"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Wilder Goodman",
+        "phone": "07028681773",
+        "email": "wilder_goodman@gmail.com",
+        "relationship": "Sister"
+      }
+    },
+    "createdAt": "2021-07-21T10:24:41.477Z"
+  },
+  {
+    "id": "695ed76f07bb6112b2b8e604",
+    "organization": "Xoggle",
+    "fullName": "Mack Kline",
+    "username": "mack_kline",
+    "email": "mack_kline@xoggle.email",
+    "phone": "07019424891",
+    "bvn": "93716578404",
+    "gender": "Female",
+    "dateJoined": "May 22, 2022 08:18 PM",
+    "status": "Blacklisted",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 4,
+        "residence": "Owned Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "HND",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Real Estate",
+        "durationOfEmployment": "5 years",
+        "monthlyIncome": "₦93886 - ₦373488",
+        "loanRepayment": "₦46109"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Flossie Solomon",
+        "phone": "07041198119",
+        "email": "flossie_solomon@gmail.com",
+        "relationship": "Brother"
+      }
+    },
+    "createdAt": "2024-06-03T13:22:14.604Z"
+  },
+  {
+    "id": "695ed76f0295524cfb9f8942",
+    "organization": "Micronaut",
+    "fullName": "Wall Wilder",
+    "username": "wall_wilder",
+    "email": "wall_wilder@micronaut.sandvik",
+    "phone": "07023831070",
+    "bvn": "66765155568",
+    "gender": "Male",
+    "dateJoined": "Feb 12, 2024 05:39 PM",
+    "status": "Blacklisted",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 0,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Defense and Military",
+        "durationOfEmployment": "3 years",
+        "monthlyIncome": "₦94000 - ₦488647",
+        "loanRepayment": "₦73213"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Wood Savage",
+        "phone": "07072976903",
+        "email": "wood_savage@gmail.com",
+        "relationship": "Sister"
+      }
+    },
+    "createdAt": "2022-01-12T07:41:55.402Z"
+  },
+  {
+    "id": "695ed76f0660ced5dd9d851d",
+    "organization": "Quarmony",
+    "fullName": "Marlene Mcclain",
+    "username": "marlene_mcclain",
+    "email": "marlene_mcclain@quarmony.immo",
+    "phone": "07089220017",
+    "bvn": "20807030442",
+    "gender": "Male",
+    "dateJoined": "May 17, 2020 08:51 PM",
+    "status": "Blacklisted",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 4,
+        "residence": "Owned Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Utilities (Power, Water, Waste)",
+        "durationOfEmployment": "4 years",
+        "monthlyIncome": "₦25201 - ₦469978",
+        "loanRepayment": "₦36096"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Curry Garza",
+        "phone": "07071679077",
+        "email": "curry_garza@gmail.com",
+        "relationship": "Sister"
+      }
+    },
+    "createdAt": "2020-05-28T02:39:32.830Z"
+  },
+  {
+    "id": "695ed76f7a35601dde1b7b61",
+    "organization": "Aquoavo",
+    "fullName": "Pugh Kirk",
+    "username": "pugh_kirk",
+    "email": "pugh_kirk@aquoavo.nr",
+    "phone": "07083943360",
+    "bvn": "91978349217",
+    "gender": "Male",
+    "dateJoined": "May 29, 2019 01:23 PM",
+    "status": "Active",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 4,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Media and Entertainment",
+        "durationOfEmployment": "1 years",
+        "monthlyIncome": "₦55076 - ₦426396",
+        "loanRepayment": "₦86147"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Gordon Rush",
+        "phone": "07050682605",
+        "email": "gordon_rush@gmail.com",
+        "relationship": "Sister"
+      }
+    },
+    "createdAt": "2019-08-28T07:48:51.225Z"
+  },
+  {
+    "id": "695ed76f3484fec551763b43",
+    "organization": "Printspan",
+    "fullName": "Ida Stone",
+    "username": "ida_stone",
+    "email": "ida_stone@printspan.florist",
+    "phone": "07030261943",
+    "bvn": "98378597299",
+    "gender": "Female",
+    "dateJoined": "Jul 05, 2022 05:38 PM",
+    "status": "Pending",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 0,
+        "residence": "Owned Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Insurance",
+        "durationOfEmployment": "2 years",
+        "monthlyIncome": "₦82017 - ₦474992",
+        "loanRepayment": "₦25472"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Phillips Dorsey",
+        "phone": "07098862427",
+        "email": "phillips_dorsey@gmail.com",
+        "relationship": "Brother"
+      }
+    },
+    "createdAt": "2020-07-25T01:50:08.935Z"
+  },
+  {
+    "id": "695ed76fd6944b2b9ce4b633",
+    "organization": "Zaggle",
+    "fullName": "Mcdowell Hayes",
+    "username": "mcdowell_hayes",
+    "email": "mcdowell_hayes@zaggle.boats",
+    "phone": "07028960832",
+    "bvn": "78931071988",
+    "gender": "Male",
+    "dateJoined": "Dec 21, 2023 08:28 AM",
+    "status": "Pending",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 0,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Tourism",
+        "durationOfEmployment": "1 years",
+        "monthlyIncome": "₦98078 - ₦434772",
+        "loanRepayment": "₦80563"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Letitia Payne",
+        "phone": "07076842980",
+        "email": "letitia_payne@gmail.com",
+        "relationship": "Sister"
+      }
+    },
+    "createdAt": "2023-08-24T20:19:49.119Z"
+  },
+  {
+    "id": "695ed76f9644b5cbce2213f8",
+    "organization": "Tetratrex",
+    "fullName": "Klein Erickson",
+    "username": "klein_erickson",
+    "email": "klein_erickson@tetratrex.pictet",
+    "phone": "07011573485",
+    "bvn": "64090665641",
+    "gender": "Male",
+    "dateJoined": "Nov 17, 2021 02:29 PM",
+    "status": "Blacklisted",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 0,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Defense and Military",
+        "durationOfEmployment": "4 years",
+        "monthlyIncome": "₦62442 - ₦258567",
+        "loanRepayment": "₦20518"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Forbes Carrillo",
+        "phone": "07051698682",
+        "email": "forbes_carrillo@gmail.com",
+        "relationship": "Sister"
+      }
+    },
+    "createdAt": "2020-09-01T05:57:30.160Z"
+  },
+  {
+    "id": "695ed76f15e113b308f0a83d",
+    "organization": "Medifax",
+    "fullName": "Barr Rollins",
+    "username": "barr_rollins",
+    "email": "barr_rollins@medifax.sex",
+    "phone": "07084741934",
+    "bvn": "92839253070",
+    "gender": "Female",
+    "dateJoined": "Nov 12, 2018 02:10 AM",
+    "status": "Inactive",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 0,
+        "residence": "Owned Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "HND",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Finance and Banking",
+        "durationOfEmployment": "4 years",
+        "monthlyIncome": "₦23103 - ₦338672",
+        "loanRepayment": "₦62041"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Gibson Bryan",
+        "phone": "07068301551",
+        "email": "gibson_bryan@gmail.com",
+        "relationship": "Sister"
+      }
+    },
+    "createdAt": "2023-11-04T22:19:40.787Z"
+  },
+  {
+    "id": "695ed76fa1eed7e9e515683a",
+    "organization": "Digifad",
+    "fullName": "Snyder Sharp",
+    "username": "snyder_sharp",
+    "email": "snyder_sharp@digifad.land",
+    "phone": "07061572069",
+    "bvn": "47701338077",
+    "gender": "Female",
+    "dateJoined": "May 04, 2019 02:46 AM",
+    "status": "Pending",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 3,
+        "residence": "Owned Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Engineering",
+        "durationOfEmployment": "2 years",
+        "monthlyIncome": "₦85483 - ₦250701",
+        "loanRepayment": "₦33184"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Miles Robbins",
+        "phone": "07071492181",
+        "email": "miles_robbins@gmail.com",
+        "relationship": "Sister"
+      }
+    },
+    "createdAt": "2023-05-08T13:48:39.096Z"
+  },
+  {
+    "id": "695ed76f9116706f3988833e",
+    "organization": "Geekola",
+    "fullName": "Lou Garner",
+    "username": "lou_garner",
+    "email": "lou_garner@geekola.er",
+    "phone": "07062866789",
+    "bvn": "53113591195",
+    "gender": "Male",
+    "dateJoined": "Dec 07, 2019 10:10 AM",
+    "status": "Blacklisted",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 4,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "HND",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Finance and Banking",
+        "durationOfEmployment": "5 years",
+        "monthlyIncome": "₦20688 - ₦258340",
+        "loanRepayment": "₦54124"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Nixon Hall",
+        "phone": "07069363288",
+        "email": "nixon_hall@gmail.com",
+        "relationship": "Friend"
+      }
+    },
+    "createdAt": "2025-03-04T00:47:28.508Z"
+  },
+  {
+    "id": "695ed76f4eb2a17e334e42e3",
+    "organization": "Assitia",
+    "fullName": "Huber Baxter",
+    "username": "huber_baxter",
+    "email": "huber_baxter@assitia.uol",
+    "phone": "07052053143",
+    "bvn": "43814142046",
+    "gender": "Female",
+    "dateJoined": "Nov 17, 2018 09:13 AM",
+    "status": "Blacklisted",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 1,
+        "residence": "Owned Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Research and Development (R&D)",
+        "durationOfEmployment": "3 years",
+        "monthlyIncome": "₦76209 - ₦422394",
+        "loanRepayment": "₦99655"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "West Ross",
+        "phone": "07094662985",
+        "email": "west_ross@gmail.com",
+        "relationship": "Parent"
+      }
+    },
+    "createdAt": "2018-06-28T02:40:40.467Z"
+  },
+  {
+    "id": "695ed76f2c508da0686548dd",
+    "organization": "Exoteric",
+    "fullName": "Holly Beard",
+    "username": "holly_beard",
+    "email": "holly_beard@exoteric.coach",
+    "phone": "07082774795",
+    "bvn": "33988867190",
+    "gender": "Female",
+    "dateJoined": "Mar 03, 2020 06:09 AM",
+    "status": "Active",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 2,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "HND",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Logistics and Warehousing",
+        "durationOfEmployment": "3 years",
+        "monthlyIncome": "₦74162 - ₦483935",
+        "loanRepayment": "₦65129"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Cherry Gallagher",
+        "phone": "07029866643",
+        "email": "cherry_gallagher@gmail.com",
+        "relationship": "Friend"
+      }
+    },
+    "createdAt": "2022-03-20T08:07:17.060Z"
+  },
+  {
+    "id": "695ed76f1caf6dc0dc7436dc",
+    "organization": "Isotronic",
+    "fullName": "Buckley Marks",
+    "username": "buckley_marks",
+    "email": "buckley_marks@isotronic.training",
+    "phone": "07091173793",
+    "bvn": "90670231870",
+    "gender": "Female",
+    "dateJoined": "Jun 16, 2025 06:03 PM",
+    "status": "Blacklisted",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 3,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Insurance",
+        "durationOfEmployment": "2 years",
+        "monthlyIncome": "₦45057 - ₦433799",
+        "loanRepayment": "₦76125"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Hutchinson Mercer",
+        "phone": "07039936376",
+        "email": "hutchinson_mercer@gmail.com",
+        "relationship": "Parent"
+      }
+    },
+    "createdAt": "2025-01-26T16:34:22.644Z"
+  },
+  {
+    "id": "695ed76f05a13dc6122bcdc9",
+    "organization": "Fishland",
+    "fullName": "Greer Cooper",
+    "username": "greer_cooper",
+    "email": "greer_cooper@fishland.java",
+    "phone": "07018849121",
+    "bvn": "79597814370",
+    "gender": "Male",
+    "dateJoined": "Sep 21, 2025 08:30 AM",
+    "status": "Inactive",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 2,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Agriculture",
+        "durationOfEmployment": "3 years",
+        "monthlyIncome": "₦91330 - ₦344356",
+        "loanRepayment": "₦92687"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Margery Mendoza",
+        "phone": "07038206888",
+        "email": "margery_mendoza@gmail.com",
+        "relationship": "Brother"
+      }
+    },
+    "createdAt": "2018-10-21T19:56:26.582Z"
+  },
+  {
+    "id": "695ed76f08eb59ea36ab1b64",
+    "organization": "Orboid",
+    "fullName": "Ross Wiley",
+    "username": "ross_wiley",
+    "email": "ross_wiley@orboid.dentist",
+    "phone": "07066444123",
+    "bvn": "23730216944",
+    "gender": "Female",
+    "dateJoined": "Aug 26, 2019 05:19 PM",
+    "status": "Active",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 1,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "HND",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Forestry",
+        "durationOfEmployment": "2 years",
+        "monthlyIncome": "₦83375 - ₦406212",
+        "loanRepayment": "₦93028"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Elise Hendricks",
+        "phone": "07089563894",
+        "email": "elise_hendricks@gmail.com",
+        "relationship": "Friend"
+      }
+    },
+    "createdAt": "2018-08-19T13:22:24.402Z"
+  },
+  {
+    "id": "695ed76f0cdcbeaa531f1324",
+    "organization": "Circum",
+    "fullName": "Gilda King",
+    "username": "gilda_king",
+    "email": "gilda_king@circum.yoga",
+    "phone": "07028248231",
+    "bvn": "61420570257",
+    "gender": "Male",
+    "dateJoined": "Oct 26, 2023 01:07 AM",
+    "status": "Pending",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 1,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Social Assistance",
+        "durationOfEmployment": "1 years",
+        "monthlyIncome": "₦51277 - ₦485710",
+        "loanRepayment": "₦52724"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Mitchell Suarez",
+        "phone": "07084384739",
+        "email": "mitchell_suarez@gmail.com",
+        "relationship": "Sister"
+      }
+    },
+    "createdAt": "2022-05-01T19:46:43.847Z"
+  },
+  {
+    "id": "695ed76fe94922cc2e84ede9",
+    "organization": "Cincyr",
+    "fullName": "Cecelia Stokes",
+    "username": "cecelia_stokes",
+    "email": "cecelia_stokes@cincyr.fund",
+    "phone": "07043227804",
+    "bvn": "33573463185",
+    "gender": "Male",
+    "dateJoined": "Jun 01, 2018 03:58 AM",
+    "status": "Active",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 4,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Oil and Gas",
+        "durationOfEmployment": "4 years",
+        "monthlyIncome": "₦37302 - ₦388562",
+        "loanRepayment": "₦21879"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Mandy Case",
+        "phone": "07049916938",
+        "email": "mandy_case@gmail.com",
+        "relationship": "Parent"
+      }
+    },
+    "createdAt": "2023-08-28T07:18:56.890Z"
+  },
+  {
+    "id": "695ed76f1df73e4747ff011b",
+    "organization": "Cuizine",
+    "fullName": "Bonita Lester",
+    "username": "bonita_lester",
+    "email": "bonita_lester@cuizine.epson",
+    "phone": "07095299413",
+    "bvn": "18968177566",
+    "gender": "Male",
+    "dateJoined": "Sep 18, 2023 06:21 PM",
+    "status": "Blacklisted",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 4,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Agriculture",
+        "durationOfEmployment": "3 years",
+        "monthlyIncome": "₦88009 - ₦352847",
+        "loanRepayment": "₦54452"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Kent Manning",
+        "phone": "07036193659",
+        "email": "kent_manning@gmail.com",
+        "relationship": "Parent"
+      }
+    },
+    "createdAt": "2025-04-07T17:00:48.699Z"
+  },
+  {
+    "id": "695ed76f3c3a16f7b6685897",
+    "organization": "Katakana",
+    "fullName": "Tara Colon",
+    "username": "tara_colon",
+    "email": "tara_colon@katakana.money",
+    "phone": "07047879530",
+    "bvn": "12747101204",
+    "gender": "Male",
+    "dateJoined": "Sep 26, 2021 08:46 AM",
+    "status": "Active",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 0,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Transportation",
+        "durationOfEmployment": "3 years",
+        "monthlyIncome": "₦23313 - ₦402999",
+        "loanRepayment": "₦73585"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Rodriquez Trujillo",
+        "phone": "07029064701",
+        "email": "rodriquez_trujillo@gmail.com",
+        "relationship": "Brother"
+      }
+    },
+    "createdAt": "2024-01-16T10:49:00.649Z"
+  },
+  {
+    "id": "695ed76f9dd3e9b4107f7fb7",
+    "organization": "Oatfarm",
+    "fullName": "Cara Witt",
+    "username": "cara_witt",
+    "email": "cara_witt@oatfarm.td",
+    "phone": "07096531474",
+    "bvn": "13758713524",
+    "gender": "Male",
+    "dateJoined": "May 12, 2024 08:50 AM",
+    "status": "Active",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 0,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Healthcare",
+        "durationOfEmployment": "4 years",
+        "monthlyIncome": "₦93553 - ₦297285",
+        "loanRepayment": "₦36661"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Goff Thornton",
+        "phone": "07070161613",
+        "email": "goff_thornton@gmail.com",
+        "relationship": "Brother"
+      }
+    },
+    "createdAt": "2020-10-28T15:03:03.779Z"
+  },
+  {
+    "id": "695ed76f394af33a41453071",
+    "organization": "Lumbrex",
+    "fullName": "Sonia Ewing",
+    "username": "sonia_ewing",
+    "email": "sonia_ewing@lumbrex.prod",
+    "phone": "07085164236",
+    "bvn": "34152366991",
+    "gender": "Male",
+    "dateJoined": "Jan 16, 2024 12:05 PM",
+    "status": "Active",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 0,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Healthcare",
+        "durationOfEmployment": "5 years",
+        "monthlyIncome": "₦63972 - ₦257236",
+        "loanRepayment": "₦67215"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Madden Orr",
+        "phone": "07071513830",
+        "email": "madden_orr@gmail.com",
+        "relationship": "Sister"
+      }
+    },
+    "createdAt": "2019-11-12T04:25:43.834Z"
+  },
+  {
+    "id": "695ed76faa5ae9cbba6c86b5",
+    "organization": "Steeltab",
+    "fullName": "Gardner Booker",
+    "username": "gardner_booker",
+    "email": "gardner_booker@steeltab.taipei",
+    "phone": "07051941239",
+    "bvn": "67342400055",
+    "gender": "Female",
+    "dateJoined": "Oct 30, 2025 04:53 PM",
+    "status": "Inactive",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 1,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Logistics and Warehousing",
+        "durationOfEmployment": "2 years",
+        "monthlyIncome": "₦78029 - ₦379798",
+        "loanRepayment": "₦95283"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Sweeney Mack",
+        "phone": "07046140293",
+        "email": "sweeney_mack@gmail.com",
+        "relationship": "Brother"
+      }
+    },
+    "createdAt": "2020-02-01T12:56:20.316Z"
+  },
+  {
+    "id": "695ed76f70fb295b93ebe8da",
+    "organization": "Evidends",
+    "fullName": "Conway Woodard",
+    "username": "conway_woodard",
+    "email": "conway_woodard@evidends.as",
+    "phone": "07078242212",
+    "bvn": "76030698522",
+    "gender": "Female",
+    "dateJoined": "Dec 22, 2019 06:48 AM",
+    "status": "Active",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 1,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Finance and Banking",
+        "durationOfEmployment": "1 years",
+        "monthlyIncome": "₦90380 - ₦304872",
+        "loanRepayment": "₦92529"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Josefa Cote",
+        "phone": "07025820276",
+        "email": "josefa_cote@gmail.com",
+        "relationship": "Brother"
+      }
+    },
+    "createdAt": "2024-02-25T11:45:34.111Z"
+  },
+  {
+    "id": "695ed76f43daf357f1d40ce0",
+    "organization": "Yogasm",
+    "fullName": "Luz Chaney",
+    "username": "luz_chaney",
+    "email": "luz_chaney@yogasm.barclays",
+    "phone": "07087160424",
+    "bvn": "71119390587",
+    "gender": "Female",
+    "dateJoined": "Jul 11, 2024 01:14 AM",
+    "status": "Blacklisted",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 0,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Forestry",
+        "durationOfEmployment": "5 years",
+        "monthlyIncome": "₦55690 - ₦392981",
+        "loanRepayment": "₦26796"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Dodson Dickson",
+        "phone": "07090547958",
+        "email": "dodson_dickson@gmail.com",
+        "relationship": "Brother"
+      }
+    },
+    "createdAt": "2018-07-05T23:35:17.290Z"
+  },
+  {
+    "id": "695ed76f233f3ace18110c79",
+    "organization": "Gology",
+    "fullName": "Shaw Good",
+    "username": "shaw_good",
+    "email": "shaw_good@gology.hangout",
+    "phone": "07061211828",
+    "bvn": "79389018001",
+    "gender": "Male",
+    "dateJoined": "Apr 06, 2019 09:19 AM",
+    "status": "Blacklisted",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 1,
+        "residence": "Owned Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "HND",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Research and Development (R&D)",
+        "durationOfEmployment": "4 years",
+        "monthlyIncome": "₦24447 - ₦498218",
+        "loanRepayment": "₦38316"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Dixon Patterson",
+        "phone": "07095997849",
+        "email": "dixon_patterson@gmail.com",
+        "relationship": "Sister"
+      }
+    },
+    "createdAt": "2020-10-26T12:46:19.735Z"
+  },
+  {
+    "id": "695ed76fc719723dab73f760",
+    "organization": "Zerbina",
+    "fullName": "Kristin Barlow",
+    "username": "kristin_barlow",
+    "email": "kristin_barlow@zerbina.afl",
+    "phone": "07065733338",
+    "bvn": "29326706261",
+    "gender": "Male",
+    "dateJoined": "Jun 14, 2019 03:28 PM",
+    "status": "Inactive",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 2,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "HND",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Mining",
+        "durationOfEmployment": "1 years",
+        "monthlyIncome": "₦67538 - ₦271819",
+        "loanRepayment": "₦43180"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Walls Gould",
+        "phone": "07047537064",
+        "email": "walls_gould@gmail.com",
+        "relationship": "Brother"
+      }
+    },
+    "createdAt": "2019-01-13T00:29:39.667Z"
+  },
+  {
+    "id": "695ed76fa538ccf180c4f33c",
+    "organization": "Corepan",
+    "fullName": "Kimberly Chen",
+    "username": "kimberly_chen",
+    "email": "kimberly_chen@corepan.design",
+    "phone": "07060488807",
+    "bvn": "97050591381",
+    "gender": "Male",
+    "dateJoined": "Jul 04, 2018 03:16 AM",
+    "status": "Blacklisted",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 0,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "HND",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Engineering",
+        "durationOfEmployment": "4 years",
+        "monthlyIncome": "₦23166 - ₦325855",
+        "loanRepayment": "₦40629"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Marcia Kent",
+        "phone": "07017148222",
+        "email": "marcia_kent@gmail.com",
+        "relationship": "Brother"
+      }
+    },
+    "createdAt": "2023-01-25T15:30:48.509Z"
+  },
+  {
+    "id": "695ed76fc9bed5b03b73e8c2",
+    "organization": "Eventix",
+    "fullName": "Sheryl Bass",
+    "username": "sheryl_bass",
+    "email": "sheryl_bass@eventix.yt",
+    "phone": "07060916145",
+    "bvn": "51401280355",
+    "gender": "Female",
+    "dateJoined": "Oct 22, 2022 10:51 PM",
+    "status": "Inactive",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 0,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Hospitality (Hotels and Restaurants)",
+        "durationOfEmployment": "5 years",
+        "monthlyIncome": "₦51468 - ₦269231",
+        "loanRepayment": "₦31241"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Herminia Valentine",
+        "phone": "07066253361",
+        "email": "herminia_valentine@gmail.com",
+        "relationship": "Sister"
+      }
+    },
+    "createdAt": "2019-01-08T20:25:22.638Z"
+  },
+  {
+    "id": "695ed76fb32eb86f870fdf2e",
+    "organization": "Norsup",
+    "fullName": "Noemi Nieves",
+    "username": "noemi_nieves",
+    "email": "noemi_nieves@norsup.gw",
+    "phone": "07086215766",
+    "bvn": "84619819998",
+    "gender": "Male",
+    "dateJoined": "Oct 31, 2020 10:45 AM",
+    "status": "Active",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 0,
+        "residence": "Owned Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Agriculture",
+        "durationOfEmployment": "3 years",
+        "monthlyIncome": "₦53700 - ₦293676",
+        "loanRepayment": "₦41524"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Marjorie Maddox",
+        "phone": "07096740192",
+        "email": "marjorie_maddox@gmail.com",
+        "relationship": "Brother"
+      }
+    },
+    "createdAt": "2024-01-20T12:32:43.752Z"
+  },
+  {
+    "id": "695ed76f69a18e33d5c0650e",
+    "organization": "Suretech",
+    "fullName": "Jocelyn Flores",
+    "username": "jocelyn_flores",
+    "email": "jocelyn_flores@suretech.il",
+    "phone": "07019190094",
+    "bvn": "43760894251",
+    "gender": "Male",
+    "dateJoined": "Nov 05, 2022 11:56 PM",
+    "status": "Blacklisted",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 3,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Mining",
+        "durationOfEmployment": "2 years",
+        "monthlyIncome": "₦36249 - ₦212014",
+        "loanRepayment": "₦55119"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Cathryn Anderson",
+        "phone": "07082582914",
+        "email": "cathryn_anderson@gmail.com",
+        "relationship": "Friend"
+      }
+    },
+    "createdAt": "2020-02-23T12:09:10.259Z"
+  },
+  {
+    "id": "695ed76f9399e495fb83fddc",
+    "organization": "Irack",
+    "fullName": "Gentry Morales",
+    "username": "gentry_morales",
+    "email": "gentry_morales@irack.luxury",
+    "phone": "07060079155",
+    "bvn": "14708955960",
+    "gender": "Male",
+    "dateJoined": "Oct 21, 2024 03:44 PM",
+    "status": "Active",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 4,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Arts and Culture",
+        "durationOfEmployment": "3 years",
+        "monthlyIncome": "₦90421 - ₦493055",
+        "loanRepayment": "₦43949"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Beverly Kelly",
+        "phone": "07022804702",
+        "email": "beverly_kelly@gmail.com",
+        "relationship": "Parent"
+      }
+    },
+    "createdAt": "2023-08-06T02:54:06.830Z"
+  },
+  {
+    "id": "695ed76f8e71f2379a598a59",
+    "organization": "Marqet",
+    "fullName": "Twila Rosales",
+    "username": "twila_rosales",
+    "email": "twila_rosales@marqet.cheap",
+    "phone": "07083475521",
+    "bvn": "70929982523",
+    "gender": "Female",
+    "dateJoined": "Dec 31, 2024 07:54 AM",
+    "status": "Inactive",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 1,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Healthcare",
+        "durationOfEmployment": "3 years",
+        "monthlyIncome": "₦57263 - ₦290084",
+        "loanRepayment": "₦23685"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Glenn Hendrix",
+        "phone": "07024300683",
+        "email": "glenn_hendrix@gmail.com",
+        "relationship": "Parent"
+      }
+    },
+    "createdAt": "2018-11-18T03:39:00.471Z"
+  },
+  {
+    "id": "695ed76f59216e57ee6287b5",
+    "organization": "Signidyne",
+    "fullName": "Warner Richard",
+    "username": "warner_richard",
+    "email": "warner_richard@signidyne.career",
+    "phone": "07036161935",
+    "bvn": "65753212721",
+    "gender": "Female",
+    "dateJoined": "Sep 23, 2021 07:59 AM",
+    "status": "Pending",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 1,
+        "residence": "Owned Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Accounting",
+        "durationOfEmployment": "3 years",
+        "monthlyIncome": "₦21089 - ₦313741",
+        "loanRepayment": "₦73414"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Turner Santana",
+        "phone": "07079550758",
+        "email": "turner_santana@gmail.com",
+        "relationship": "Friend"
+      }
+    },
+    "createdAt": "2024-12-07T13:25:43.892Z"
+  },
+  {
+    "id": "695ed76f48e6f26f0a9c20c1",
+    "organization": "Uncorp",
+    "fullName": "Rene Bender",
+    "username": "rene_bender",
+    "email": "rene_bender@uncorp.lol",
+    "phone": "07088481849",
+    "bvn": "38368709704",
+    "gender": "Female",
+    "dateJoined": "Jan 26, 2022 09:40 AM",
+    "status": "Active",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 4,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Social Assistance",
+        "durationOfEmployment": "2 years",
+        "monthlyIncome": "₦49160 - ₦326016",
+        "loanRepayment": "₦60864"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Lynnette Pickett",
+        "phone": "07031209033",
+        "email": "lynnette_pickett@gmail.com",
+        "relationship": "Friend"
+      }
+    },
+    "createdAt": "2022-08-20T23:52:19.513Z"
+  },
+  {
+    "id": "695ed76fe8cc0c451c5ed2f3",
+    "organization": "Assistix",
+    "fullName": "Kimberley Leblanc",
+    "username": "kimberley_leblanc",
+    "email": "kimberley_leblanc@assistix.bayern",
+    "phone": "07076432368",
+    "bvn": "24524984691",
+    "gender": "Male",
+    "dateJoined": "Dec 23, 2022 09:33 AM",
+    "status": "Pending",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 3,
+        "residence": "Owned Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "HND",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Legal Services",
+        "durationOfEmployment": "4 years",
+        "monthlyIncome": "₦84379 - ₦329771",
+        "loanRepayment": "₦55054"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Glass Wall",
+        "phone": "07010724211",
+        "email": "glass_wall@gmail.com",
+        "relationship": "Parent"
+      }
+    },
+    "createdAt": "2023-03-06T15:49:07.302Z"
+  },
+  {
+    "id": "695ed76f76ad44105585ef43",
+    "organization": "Supremia",
+    "fullName": "Dunlap Greene",
+    "username": "dunlap_greene",
+    "email": "dunlap_greene@supremia.et",
+    "phone": "07052634150",
+    "bvn": "26167602138",
+    "gender": "Male",
+    "dateJoined": "Feb 09, 2025 11:33 PM",
+    "status": "Active",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 1,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Hospitality (Hotels and Restaurants)",
+        "durationOfEmployment": "4 years",
+        "monthlyIncome": "₦57777 - ₦448910",
+        "loanRepayment": "₦43994"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Lilly Valdez",
+        "phone": "07019255337",
+        "email": "lilly_valdez@gmail.com",
+        "relationship": "Parent"
+      }
+    },
+    "createdAt": "2020-01-01T18:18:07.734Z"
+  },
+  {
+    "id": "695ed76fb0dc8d4ea977c0c2",
+    "organization": "Eweville",
+    "fullName": "Nanette Kaufman",
+    "username": "nanette_kaufman",
+    "email": "nanette_kaufman@eweville.leclerc",
+    "phone": "07026583446",
+    "bvn": "50274168141",
+    "gender": "Male",
+    "dateJoined": "Jan 11, 2020 03:29 AM",
+    "status": "Blacklisted",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 3,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Oil and Gas",
+        "durationOfEmployment": "3 years",
+        "monthlyIncome": "₦86313 - ₦259296",
+        "loanRepayment": "₦86131"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Nielsen Santos",
+        "phone": "07028234699",
+        "email": "nielsen_santos@gmail.com",
+        "relationship": "Parent"
+      }
+    },
+    "createdAt": "2025-06-02T02:49:56.215Z"
+  },
+  {
+    "id": "695ed76f245aaad204390ded",
+    "organization": "Radiantix",
+    "fullName": "Edwina Lawson",
+    "username": "edwina_lawson",
+    "email": "edwina_lawson@radiantix.pt",
+    "phone": "07012259841",
+    "bvn": "47462448779",
+    "gender": "Male",
+    "dateJoined": "Jun 29, 2020 01:39 AM",
+    "status": "Pending",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 3,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Healthcare",
+        "durationOfEmployment": "4 years",
+        "monthlyIncome": "₦93524 - ₦471646",
+        "loanRepayment": "₦50112"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Rose Ramirez",
+        "phone": "07033764982",
+        "email": "rose_ramirez@gmail.com",
+        "relationship": "Friend"
+      }
+    },
+    "createdAt": "2019-07-09T12:44:23.104Z"
+  },
+  {
+    "id": "695ed76f3b810fbd4643aa51",
+    "organization": "Everest",
+    "fullName": "Mullins Sears",
+    "username": "mullins_sears",
+    "email": "mullins_sears@everest.pa",
+    "phone": "07086855293",
+    "bvn": "58256590996",
+    "gender": "Male",
+    "dateJoined": "Sep 09, 2018 11:38 AM",
+    "status": "Inactive",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 4,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Engineering",
+        "durationOfEmployment": "5 years",
+        "monthlyIncome": "₦57275 - ₦497176",
+        "loanRepayment": "₦58296"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Bishop Fuentes",
+        "phone": "07094089777",
+        "email": "bishop_fuentes@gmail.com",
+        "relationship": "Brother"
+      }
+    },
+    "createdAt": "2021-11-28T11:27:14.128Z"
+  },
+  {
+    "id": "695ed76f630ead483d09ff4f",
+    "organization": "Cinesanct",
+    "fullName": "Cunningham Jones",
+    "username": "cunningham_jones",
+    "email": "cunningham_jones@cinesanct.mw",
+    "phone": "07089645093",
+    "bvn": "88167409088",
+    "gender": "Male",
+    "dateJoined": "May 18, 2024 02:47 AM",
+    "status": "Blacklisted",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 3,
+        "residence": "Owned Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Logistics and Warehousing",
+        "durationOfEmployment": "2 years",
+        "monthlyIncome": "₦65345 - ₦443811",
+        "loanRepayment": "₦31952"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Brenda Farley",
+        "phone": "07042656967",
+        "email": "brenda_farley@gmail.com",
+        "relationship": "Parent"
+      }
+    },
+    "createdAt": "2021-01-06T05:11:54.923Z"
+  },
+  {
+    "id": "695ed76f7bb7e6cabfb9dd22",
+    "organization": "Repetwire",
+    "fullName": "Weiss Ball",
+    "username": "weiss_ball",
+    "email": "weiss_ball@repetwire.mg",
+    "phone": "07024970603",
+    "bvn": "16001400948",
+    "gender": "Female",
+    "dateJoined": "Sep 26, 2020 08:25 PM",
+    "status": "Inactive",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 3,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Public Administration (Government)",
+        "durationOfEmployment": "5 years",
+        "monthlyIncome": "₦52035 - ₦409424",
+        "loanRepayment": "₦56362"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Dorothy Alford",
+        "phone": "07073746952",
+        "email": "dorothy_alford@gmail.com",
+        "relationship": "Brother"
+      }
+    },
+    "createdAt": "2021-09-30T10:40:41.157Z"
+  },
+  {
+    "id": "695ed76f860b0cb8d8b0834d",
+    "organization": "Zorromop",
+    "fullName": "Casandra Mcdowell",
+    "username": "casandra_mcdowell",
+    "email": "casandra_mcdowell@zorromop.sx",
+    "phone": "07028892977",
+    "bvn": "37857396074",
+    "gender": "Male",
+    "dateJoined": "Feb 03, 2021 12:29 AM",
+    "status": "Pending",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 0,
+        "residence": "Owned Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Insurance",
+        "durationOfEmployment": "2 years",
+        "monthlyIncome": "₦99707 - ₦342907",
+        "loanRepayment": "₦79009"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Rachel Espinoza",
+        "phone": "07018549684",
+        "email": "rachel_espinoza@gmail.com",
+        "relationship": "Parent"
+      }
+    },
+    "createdAt": "2023-09-03T23:34:32.503Z"
+  },
+  {
+    "id": "695ed76f4b1f5c30262ed770",
+    "organization": "Bolax",
+    "fullName": "Grant Rosario",
+    "username": "grant_rosario",
+    "email": "grant_rosario@bolax.jp",
+    "phone": "07074832457",
+    "bvn": "96620438346",
+    "gender": "Female",
+    "dateJoined": "Jan 25, 2022 10:07 AM",
+    "status": "Inactive",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 3,
+        "residence": "Owned Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Media and Entertainment",
+        "durationOfEmployment": "4 years",
+        "monthlyIncome": "₦83550 - ₦446704",
+        "loanRepayment": "₦67200"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Leah Campos",
+        "phone": "07084105568",
+        "email": "leah_campos@gmail.com",
+        "relationship": "Friend"
+      }
+    },
+    "createdAt": "2022-08-08T14:43:43.976Z"
+  },
+  {
+    "id": "695ed76f51c91b5f017992c4",
+    "organization": "Geeky",
+    "fullName": "Barrett Preston",
+    "username": "barrett_preston",
+    "email": "barrett_preston@geeky.help",
+    "phone": "07059607015",
+    "bvn": "92058544568",
+    "gender": "Female",
+    "dateJoined": "Jul 19, 2019 08:54 AM",
+    "status": "Inactive",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 0,
+        "residence": "Owned Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Logistics and Warehousing",
+        "durationOfEmployment": "4 years",
+        "monthlyIncome": "₦50510 - ₦470113",
+        "loanRepayment": "₦76283"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Melva Roach",
+        "phone": "07027756906",
+        "email": "melva_roach@gmail.com",
+        "relationship": "Parent"
+      }
+    },
+    "createdAt": "2019-07-07T19:59:09.409Z"
+  },
+  {
+    "id": "695ed76ff8c18c0cf22c2c43",
+    "organization": "Quintity",
+    "fullName": "Sheree Rich",
+    "username": "sheree_rich",
+    "email": "sheree_rich@quintity.ph",
+    "phone": "07054390478",
+    "bvn": "44526777398",
+    "gender": "Female",
+    "dateJoined": "Oct 08, 2021 02:02 AM",
+    "status": "Blacklisted",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 3,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Accounting",
+        "durationOfEmployment": "2 years",
+        "monthlyIncome": "₦31061 - ₦311934",
+        "loanRepayment": "₦99779"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Moran Kirkland",
+        "phone": "07070161550",
+        "email": "moran_kirkland@gmail.com",
+        "relationship": "Sister"
+      }
+    },
+    "createdAt": "2021-07-24T22:03:42.633Z"
+  },
+  {
+    "id": "695ed76ffb58060e57531f3b",
+    "organization": "Comtrak",
+    "fullName": "Mcpherson Hartman",
+    "username": "mcpherson_hartman",
+    "email": "mcpherson_hartman@comtrak.dm",
+    "phone": "07083133031",
+    "bvn": "57068728236",
+    "gender": "Male",
+    "dateJoined": "Mar 11, 2019 09:47 AM",
+    "status": "Inactive",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 2,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Healthcare",
+        "durationOfEmployment": "3 years",
+        "monthlyIncome": "₦83629 - ₦328352",
+        "loanRepayment": "₦89672"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Potter Shepherd",
+        "phone": "07083227173",
+        "email": "potter_shepherd@gmail.com",
+        "relationship": "Brother"
+      }
+    },
+    "createdAt": "2022-04-15T13:28:58.797Z"
+  },
+  {
+    "id": "695ed76f9da9e69bea8a11a3",
+    "organization": "Eschoir",
+    "fullName": "Hall Maxwell",
+    "username": "hall_maxwell",
+    "email": "hall_maxwell@eschoir.wang",
+    "phone": "07012019569",
+    "bvn": "75283363655",
+    "gender": "Male",
+    "dateJoined": "Apr 28, 2021 07:54 AM",
+    "status": "Pending",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 4,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "HND",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Insurance",
+        "durationOfEmployment": "1 years",
+        "monthlyIncome": "₦76970 - ₦497515",
+        "loanRepayment": "₦70958"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Virgie Moreno",
+        "phone": "07089030849",
+        "email": "virgie_moreno@gmail.com",
+        "relationship": "Friend"
+      }
+    },
+    "createdAt": "2025-09-24T04:48:06.728Z"
+  },
+  {
+    "id": "695ed76f7eeb963e1d9c38f8",
+    "organization": "Anixang",
+    "fullName": "Sandoval Matthews",
+    "username": "sandoval_matthews",
+    "email": "sandoval_matthews@anixang.pics",
+    "phone": "07023776641",
+    "bvn": "31721858125",
+    "gender": "Male",
+    "dateJoined": "Feb 24, 2019 07:49 AM",
+    "status": "Pending",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 4,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Information Technology (IT)",
+        "durationOfEmployment": "4 years",
+        "monthlyIncome": "₦84332 - ₦442194",
+        "loanRepayment": "₦89840"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Dejesus Hamilton",
+        "phone": "07090454188",
+        "email": "dejesus_hamilton@gmail.com",
+        "relationship": "Parent"
+      }
+    },
+    "createdAt": "2020-10-04T13:39:22.266Z"
+  },
+  {
+    "id": "695ed76f60c8c3ab1b4ca81a",
+    "organization": "Quility",
+    "fullName": "Rosemarie Contreras",
+    "username": "rosemarie_contreras",
+    "email": "rosemarie_contreras@quility.enterprises",
+    "phone": "07013666116",
+    "bvn": "90785652590",
+    "gender": "Male",
+    "dateJoined": "Nov 16, 2020 04:16 AM",
+    "status": "Inactive",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 3,
+        "residence": "Owned Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Telecommunications",
+        "durationOfEmployment": "2 years",
+        "monthlyIncome": "₦64388 - ₦217456",
+        "loanRepayment": "₦75766"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Black Chang",
+        "phone": "07077120809",
+        "email": "black_chang@gmail.com",
+        "relationship": "Parent"
+      }
+    },
+    "createdAt": "2019-11-01T02:43:41.104Z"
+  },
+  {
+    "id": "695ed76ff2563358582b87a7",
+    "organization": "Snips",
+    "fullName": "Palmer Mays",
+    "username": "palmer_mays",
+    "email": "palmer_mays@snips.kz",
+    "phone": "07054561643",
+    "bvn": "27265064011",
+    "gender": "Male",
+    "dateJoined": "Apr 25, 2020 06:14 PM",
+    "status": "Active",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 3,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Information Technology (IT)",
+        "durationOfEmployment": "4 years",
+        "monthlyIncome": "₦89328 - ₦468581",
+        "loanRepayment": "₦55306"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Kemp Walters",
+        "phone": "07061529016",
+        "email": "kemp_walters@gmail.com",
+        "relationship": "Parent"
+      }
+    },
+    "createdAt": "2023-10-05T11:27:26.306Z"
+  },
+  {
+    "id": "695ed76f5837c0737d7ed4dd",
+    "organization": "Comtent",
+    "fullName": "Young Sharpe",
+    "username": "young_sharpe",
+    "email": "young_sharpe@comtent.ski",
+    "phone": "07044838253",
+    "bvn": "78445800018",
+    "gender": "Male",
+    "dateJoined": "Apr 29, 2021 03:15 PM",
+    "status": "Inactive",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 2,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Non-profit and NGOs",
+        "durationOfEmployment": "2 years",
+        "monthlyIncome": "₦27333 - ₦311841",
+        "loanRepayment": "₦60236"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Morin Wheeler",
+        "phone": "07061411600",
+        "email": "morin_wheeler@gmail.com",
+        "relationship": "Brother"
+      }
+    },
+    "createdAt": "2019-03-16T11:21:20.297Z"
+  },
+  {
+    "id": "695ed76f0895c58d3247c166",
+    "organization": "Confrenzy",
+    "fullName": "Kitty Pitts",
+    "username": "kitty_pitts",
+    "email": "kitty_pitts@confrenzy.nu",
+    "phone": "07084113049",
+    "bvn": "98002100192",
+    "gender": "Male",
+    "dateJoined": "Sep 25, 2024 01:46 AM",
+    "status": "Pending",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 0,
+        "residence": "Owned Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Utilities (Power, Water, Waste)",
+        "durationOfEmployment": "2 years",
+        "monthlyIncome": "₦28704 - ₦307809",
+        "loanRepayment": "₦72949"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Goldie Mills",
+        "phone": "07037593319",
+        "email": "goldie_mills@gmail.com",
+        "relationship": "Brother"
+      }
+    },
+    "createdAt": "2022-03-15T10:06:39.254Z"
+  },
+  {
+    "id": "695ed76f4507d0ae7451da4f",
+    "organization": "Paprikut",
+    "fullName": "Lane Cooley",
+    "username": "lane_cooley",
+    "email": "lane_cooley@paprikut.ky",
+    "phone": "07037109711",
+    "bvn": "84390005803",
+    "gender": "Female",
+    "dateJoined": "Jun 14, 2024 02:47 AM",
+    "status": "Inactive",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 0,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Logistics and Warehousing",
+        "durationOfEmployment": "4 years",
+        "monthlyIncome": "₦90530 - ₦368127",
+        "loanRepayment": "₦23382"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Boyd Blackburn",
+        "phone": "07069932105",
+        "email": "boyd_blackburn@gmail.com",
+        "relationship": "Friend"
+      }
+    },
+    "createdAt": "2019-11-29T20:11:10.115Z"
+  },
+  {
+    "id": "695ed76f1e50c12035feb28e",
+    "organization": "Qiao",
+    "fullName": "Terry Parsons",
+    "username": "terry_parsons",
+    "email": "terry_parsons@qiao.boo",
+    "phone": "07074365305",
+    "bvn": "55024169606",
+    "gender": "Female",
+    "dateJoined": "Jun 04, 2022 05:57 PM",
+    "status": "Pending",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 2,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Insurance",
+        "durationOfEmployment": "3 years",
+        "monthlyIncome": "₦45162 - ₦208223",
+        "loanRepayment": "₦46939"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Pitts Underwood",
+        "phone": "07078934473",
+        "email": "pitts_underwood@gmail.com",
+        "relationship": "Parent"
+      }
+    },
+    "createdAt": "2020-04-25T16:24:37.581Z"
+  },
+  {
+    "id": "695ed76f98b8efe586b31490",
+    "organization": "Candecor",
+    "fullName": "Gutierrez Howell",
+    "username": "gutierrez_howell",
+    "email": "gutierrez_howell@candecor.catering",
+    "phone": "07099227615",
+    "bvn": "67892436507",
+    "gender": "Female",
+    "dateJoined": "Dec 18, 2024 12:50 PM",
+    "status": "Blacklisted",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 1,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "HND",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Insurance",
+        "durationOfEmployment": "4 years",
+        "monthlyIncome": "₦99556 - ₦279372",
+        "loanRepayment": "₦77151"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Carole Rocha",
+        "phone": "07058911734",
+        "email": "carole_rocha@gmail.com",
+        "relationship": "Parent"
+      }
+    },
+    "createdAt": "2025-08-03T09:11:20.215Z"
+  },
+  {
+    "id": "695ed76f32d8c0be226b66d1",
+    "organization": "Cosmosis",
+    "fullName": "Sweet Chase",
+    "username": "sweet_chase",
+    "email": "sweet_chase@cosmosis.tf",
+    "phone": "07052679051",
+    "bvn": "22593086059",
+    "gender": "Male",
+    "dateJoined": "May 30, 2022 08:03 PM",
+    "status": "Inactive",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 1,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Legal Services",
+        "durationOfEmployment": "5 years",
+        "monthlyIncome": "₦94759 - ₦373362",
+        "loanRepayment": "₦23854"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Brown Bean",
+        "phone": "07040549643",
+        "email": "brown_bean@gmail.com",
+        "relationship": "Sister"
+      }
+    },
+    "createdAt": "2025-07-04T18:00:04.981Z"
+  },
+  {
+    "id": "695ed76fe6dbeeef53b0c8fe",
+    "organization": "Remold",
+    "fullName": "Lamb Norman",
+    "username": "lamb_norman",
+    "email": "lamb_norman@remold.racing",
+    "phone": "07055223182",
+    "bvn": "17937524014",
+    "gender": "Female",
+    "dateJoined": "Sep 05, 2023 05:58 AM",
+    "status": "Pending",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 2,
+        "residence": "Owned Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Accounting",
+        "durationOfEmployment": "4 years",
+        "monthlyIncome": "₦66458 - ₦271303",
+        "loanRepayment": "₦20485"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Effie Obrien",
+        "phone": "07073349069",
+        "email": "effie_obrien@gmail.com",
+        "relationship": "Sister"
+      }
+    },
+    "createdAt": "2021-06-26T18:43:54.430Z"
+  },
+  {
+    "id": "695ed76fc23c8f0af991eec9",
+    "organization": "Centrexin",
+    "fullName": "Vivian Hickman",
+    "username": "vivian_hickman",
+    "email": "vivian_hickman@centrexin.ventures",
+    "phone": "07010890367",
+    "bvn": "80153455115",
+    "gender": "Male",
+    "dateJoined": "Aug 29, 2018 04:39 AM",
+    "status": "Pending",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 3,
+        "residence": "Owned Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Education",
+        "durationOfEmployment": "4 years",
+        "monthlyIncome": "₦31545 - ₦315341",
+        "loanRepayment": "₦53398"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Horne Keith",
+        "phone": "07084026215",
+        "email": "horne_keith@gmail.com",
+        "relationship": "Brother"
+      }
+    },
+    "createdAt": "2021-06-11T05:44:15.082Z"
+  },
+  {
+    "id": "695ed76f22e0f3ce3d22c157",
+    "organization": "Hivedom",
+    "fullName": "Clay Ellison",
+    "username": "clay_ellison",
+    "email": "clay_ellison@hivedom.ug",
+    "phone": "07019969766",
+    "bvn": "55967532591",
+    "gender": "Male",
+    "dateJoined": "Jan 12, 2024 03:39 PM",
+    "status": "Inactive",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 2,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Finance and Banking",
+        "durationOfEmployment": "5 years",
+        "monthlyIncome": "₦65676 - ₦275016",
+        "loanRepayment": "₦43902"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Fields Kim",
+        "phone": "07029190163",
+        "email": "fields_kim@gmail.com",
+        "relationship": "Brother"
+      }
+    },
+    "createdAt": "2024-12-31T10:01:15.247Z"
+  },
+  {
+    "id": "695ed76f51eab71ae0ed3856",
+    "organization": "Geekmosis",
+    "fullName": "Tamara Holman",
+    "username": "tamara_holman",
+    "email": "tamara_holman@geekmosis.trust",
+    "phone": "07078551683",
+    "bvn": "77318444866",
+    "gender": "Male",
+    "dateJoined": "Nov 29, 2020 03:27 AM",
+    "status": "Active",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 3,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Logistics and Warehousing",
+        "durationOfEmployment": "4 years",
+        "monthlyIncome": "₦77128 - ₦431573",
+        "loanRepayment": "₦80520"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Concepcion Duke",
+        "phone": "07058611079",
+        "email": "concepcion_duke@gmail.com",
+        "relationship": "Brother"
+      }
+    },
+    "createdAt": "2020-10-22T05:52:37.788Z"
+  },
+  {
+    "id": "695ed76f5003cf6327bfd56e",
+    "organization": "Zoinage",
+    "fullName": "Randolph Cameron",
+    "username": "randolph_cameron",
+    "email": "randolph_cameron@zoinage.zip",
+    "phone": "07077554671",
+    "bvn": "97041756002",
+    "gender": "Male",
+    "dateJoined": "Dec 19, 2025 11:24 AM",
+    "status": "Pending",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 4,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Public Administration (Government)",
+        "durationOfEmployment": "3 years",
+        "monthlyIncome": "₦93322 - ₦279228",
+        "loanRepayment": "₦70288"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Katherine Vang",
+        "phone": "07037860658",
+        "email": "katherine_vang@gmail.com",
+        "relationship": "Sister"
+      }
+    },
+    "createdAt": "2021-07-06T13:11:09.335Z"
+  },
+  {
+    "id": "695ed76f1daf902f00349aa7",
+    "organization": "Isodrive",
+    "fullName": "Dotson Donaldson",
+    "username": "dotson_donaldson",
+    "email": "dotson_donaldson@isodrive.dclk",
+    "phone": "07068343972",
+    "bvn": "72274771915",
+    "gender": "Male",
+    "dateJoined": "Apr 15, 2024 11:51 AM",
+    "status": "Inactive",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 2,
+        "residence": "Owned Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "HND",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Research and Development (R&D)",
+        "durationOfEmployment": "2 years",
+        "monthlyIncome": "₦42503 - ₦444683",
+        "loanRepayment": "₦77465"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Christensen Blake",
+        "phone": "07064029245",
+        "email": "christensen_blake@gmail.com",
+        "relationship": "Friend"
+      }
+    },
+    "createdAt": "2024-03-07T06:26:05.597Z"
+  },
+  {
+    "id": "695ed76fd93310cf704f7c9b",
+    "organization": "Zolarex",
+    "fullName": "Graciela Clayton",
+    "username": "graciela_clayton",
+    "email": "graciela_clayton@zolarex.ai",
+    "phone": "07081851439",
+    "bvn": "66569930332",
+    "gender": "Female",
+    "dateJoined": "Jun 23, 2024 02:25 PM",
+    "status": "Active",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 1,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Telecommunications",
+        "durationOfEmployment": "4 years",
+        "monthlyIncome": "₦91127 - ₦407589",
+        "loanRepayment": "₦35930"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Hopper Odonnell",
+        "phone": "07062980073",
+        "email": "hopper_odonnell@gmail.com",
+        "relationship": "Friend"
+      }
+    },
+    "createdAt": "2019-09-20T08:37:54.467Z"
+  },
+  {
+    "id": "695ed76fd4bcdde68784fa8f",
+    "organization": "Biospan",
+    "fullName": "Laurel Downs",
+    "username": "laurel_downs",
+    "email": "laurel_downs@biospan.faith",
+    "phone": "07049026617",
+    "bvn": "43713586283",
+    "gender": "Male",
+    "dateJoined": "Mar 03, 2023 02:59 PM",
+    "status": "Pending",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 4,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "HND",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Telecommunications",
+        "durationOfEmployment": "4 years",
+        "monthlyIncome": "₦45255 - ₦204410",
+        "loanRepayment": "₦65046"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Franks Hebert",
+        "phone": "07050654698",
+        "email": "franks_hebert@gmail.com",
+        "relationship": "Friend"
+      }
+    },
+    "createdAt": "2023-02-13T18:07:35.823Z"
+  },
+  {
+    "id": "695ed76f480e0dcd3be1e745",
+    "organization": "Strezzo",
+    "fullName": "Mejia Becker",
+    "username": "mejia_becker",
+    "email": "mejia_becker@strezzo.hosting",
+    "phone": "07010349745",
+    "bvn": "40471243156",
+    "gender": "Male",
+    "dateJoined": "Jan 14, 2022 11:47 PM",
+    "status": "Inactive",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 1,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Transportation",
+        "durationOfEmployment": "5 years",
+        "monthlyIncome": "₦54542 - ₦349214",
+        "loanRepayment": "₦72597"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Sheena Marquez",
+        "phone": "07050460147",
+        "email": "sheena_marquez@gmail.com",
+        "relationship": "Parent"
+      }
+    },
+    "createdAt": "2025-11-03T20:37:08.819Z"
+  },
+  {
+    "id": "695ed76f3298926d1c659434",
+    "organization": "Flum",
+    "fullName": "Compton Bowman",
+    "username": "compton_bowman",
+    "email": "compton_bowman@flum.deals",
+    "phone": "07074941903",
+    "bvn": "84248424200",
+    "gender": "Male",
+    "dateJoined": "Mar 24, 2025 03:22 AM",
+    "status": "Active",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 4,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Fishing",
+        "durationOfEmployment": "2 years",
+        "monthlyIncome": "₦31258 - ₦293960",
+        "loanRepayment": "₦92236"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Mcintyre Logan",
+        "phone": "07046968312",
+        "email": "mcintyre_logan@gmail.com",
+        "relationship": "Sister"
+      }
+    },
+    "createdAt": "2024-09-16T04:54:44.005Z"
+  },
+  {
+    "id": "695ed76f88137f08063f456e",
+    "organization": "Kaggle",
+    "fullName": "Burton Sykes",
+    "username": "burton_sykes",
+    "email": "burton_sykes@kaggle.loan",
+    "phone": "07032202066",
+    "bvn": "73612784679",
+    "gender": "Male",
+    "dateJoined": "Feb 16, 2023 07:04 AM",
+    "status": "Inactive",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 0,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Telecommunications",
+        "durationOfEmployment": "3 years",
+        "monthlyIncome": "₦41087 - ₦493136",
+        "loanRepayment": "₦63169"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Cannon Larson",
+        "phone": "07026736944",
+        "email": "cannon_larson@gmail.com",
+        "relationship": "Parent"
+      }
+    },
+    "createdAt": "2020-04-16T22:31:02.475Z"
+  },
+  {
+    "id": "695ed76f3755e3f2df3e9b29",
+    "organization": "Stucco",
+    "fullName": "Fletcher Melton",
+    "username": "fletcher_melton",
+    "email": "fletcher_melton@stucco.weir",
+    "phone": "07084123364",
+    "bvn": "51961241337",
+    "gender": "Female",
+    "dateJoined": "Jan 19, 2021 04:17 PM",
+    "status": "Blacklisted",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 0,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Research and Development (R&D)",
+        "durationOfEmployment": "2 years",
+        "monthlyIncome": "₦37914 - ₦450608",
+        "loanRepayment": "₦38248"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Clarice Evans",
+        "phone": "07088825444",
+        "email": "clarice_evans@gmail.com",
+        "relationship": "Friend"
+      }
+    },
+    "createdAt": "2024-10-23T16:18:45.982Z"
+  },
+  {
+    "id": "695ed76fe016afe1e794d334",
+    "organization": "Oronoko",
+    "fullName": "Contreras Dodson",
+    "username": "contreras_dodson",
+    "email": "contreras_dodson@oronoko.gg",
+    "phone": "07032313433",
+    "bvn": "36970166336",
+    "gender": "Female",
+    "dateJoined": "Oct 09, 2022 11:23 PM",
+    "status": "Inactive",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 0,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Insurance",
+        "durationOfEmployment": "5 years",
+        "monthlyIncome": "₦97640 - ₦403624",
+        "loanRepayment": "₦64306"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Jacklyn Fletcher",
+        "phone": "07023916690",
+        "email": "jacklyn_fletcher@gmail.com",
+        "relationship": "Brother"
+      }
+    },
+    "createdAt": "2021-01-04T00:26:22.387Z"
+  },
+  {
+    "id": "695ed76f708143be9140c7a4",
+    "organization": "Bristo",
+    "fullName": "Carpenter Potts",
+    "username": "carpenter_potts",
+    "email": "carpenter_potts@bristo.gr",
+    "phone": "07038942569",
+    "bvn": "56597285436",
+    "gender": "Male",
+    "dateJoined": "Jan 30, 2018 10:43 PM",
+    "status": "Inactive",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 4,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Manufacturing",
+        "durationOfEmployment": "4 years",
+        "monthlyIncome": "₦82056 - ₦200524",
+        "loanRepayment": "₦64314"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Lori Ortiz",
+        "phone": "07091579882",
+        "email": "lori_ortiz@gmail.com",
+        "relationship": "Parent"
+      }
+    },
+    "createdAt": "2018-04-11T13:19:52.837Z"
+  },
+  {
+    "id": "695ed76f03c3416575f7689b",
+    "organization": "Isoplex",
+    "fullName": "Andrea Boone",
+    "username": "andrea_boone",
+    "email": "andrea_boone@isoplex.jm",
+    "phone": "07060977872",
+    "bvn": "12731592406",
+    "gender": "Female",
+    "dateJoined": "Jan 05, 2018 04:23 PM",
+    "status": "Blacklisted",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 4,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Research and Development (R&D)",
+        "durationOfEmployment": "2 years",
+        "monthlyIncome": "₦83331 - ₦236722",
+        "loanRepayment": "₦74784"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Larsen Mason",
+        "phone": "07047458352",
+        "email": "larsen_mason@gmail.com",
+        "relationship": "Friend"
+      }
+    },
+    "createdAt": "2025-05-26T19:18:35.925Z"
+  },
+  {
+    "id": "695ed76f1852b3d1883ad8c3",
+    "organization": "Recrisys",
+    "fullName": "Maynard Grimes",
+    "username": "maynard_grimes",
+    "email": "maynard_grimes@recrisys.bbva",
+    "phone": "07093214185",
+    "bvn": "33798663814",
+    "gender": "Female",
+    "dateJoined": "Dec 06, 2023 08:34 PM",
+    "status": "Pending",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 1,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Transportation",
+        "durationOfEmployment": "2 years",
+        "monthlyIncome": "₦57453 - ₦211943",
+        "loanRepayment": "₦76827"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Corrine Robertson",
+        "phone": "07068130872",
+        "email": "corrine_robertson@gmail.com",
+        "relationship": "Sister"
+      }
+    },
+    "createdAt": "2021-05-18T00:59:25.089Z"
+  },
+  {
+    "id": "695ed76fc123feee27f6e7e3",
+    "organization": "Omnigog",
+    "fullName": "Villarreal Castillo",
+    "username": "villarreal_castillo",
+    "email": "villarreal_castillo@omnigog.click",
+    "phone": "07021189643",
+    "bvn": "88500602630",
+    "gender": "Male",
+    "dateJoined": "Aug 03, 2022 06:24 PM",
+    "status": "Blacklisted",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 2,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Manufacturing",
+        "durationOfEmployment": "2 years",
+        "monthlyIncome": "₦21564 - ₦426446",
+        "loanRepayment": "₦73528"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Maddox Bauer",
+        "phone": "07068945358",
+        "email": "maddox_bauer@gmail.com",
+        "relationship": "Friend"
+      }
+    },
+    "createdAt": "2018-12-02T13:34:39.050Z"
+  },
+  {
+    "id": "695ed76f2241c5f6cbe8247c",
+    "organization": "Emtrak",
+    "fullName": "Porter Cobb",
+    "username": "porter_cobb",
+    "email": "porter_cobb@emtrak.esq",
+    "phone": "07029325266",
+    "bvn": "79897030284",
+    "gender": "Female",
+    "dateJoined": "Nov 11, 2020 06:09 PM",
+    "status": "Pending",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 0,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Education",
+        "durationOfEmployment": "3 years",
+        "monthlyIncome": "₦46699 - ₦419952",
+        "loanRepayment": "₦79704"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Fernandez Wade",
+        "phone": "07069026825",
+        "email": "fernandez_wade@gmail.com",
+        "relationship": "Parent"
+      }
+    },
+    "createdAt": "2020-10-02T17:59:36.818Z"
+  },
+  {
+    "id": "695ed76f8e04c46fcfc423a4",
+    "organization": "Sultraxin",
+    "fullName": "Beth Cotton",
+    "username": "beth_cotton",
+    "email": "beth_cotton@sultraxin.ceo",
+    "phone": "07027470906",
+    "bvn": "54559992159",
+    "gender": "Female",
+    "dateJoined": "Mar 13, 2021 05:44 PM",
+    "status": "Blacklisted",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 1,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Healthcare",
+        "durationOfEmployment": "3 years",
+        "monthlyIncome": "₦91319 - ₦251834",
+        "loanRepayment": "₦98960"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Freda Cruz",
+        "phone": "07076798680",
+        "email": "freda_cruz@gmail.com",
+        "relationship": "Brother"
+      }
+    },
+    "createdAt": "2018-12-20T13:54:05.279Z"
+  },
+  {
+    "id": "695ed76f67b0de0d759705c2",
+    "organization": "Skinserve",
+    "fullName": "Winifred Peterson",
+    "username": "winifred_peterson",
+    "email": "winifred_peterson@skinserve.condos",
+    "phone": "07088640523",
+    "bvn": "94815853252",
+    "gender": "Male",
+    "dateJoined": "May 28, 2022 05:31 AM",
+    "status": "Inactive",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 2,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "B.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Defense and Military",
+        "durationOfEmployment": "1 years",
+        "monthlyIncome": "₦71804 - ₦318371",
+        "loanRepayment": "₦83755"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Alma Bell",
+        "phone": "07040726289",
+        "email": "alma_bell@gmail.com",
+        "relationship": "Friend"
+      }
+    },
+    "createdAt": "2022-04-08T20:26:29.474Z"
+  },
+  {
+    "id": "695ed76f47d913ac303a9161",
+    "organization": "Ecrater",
+    "fullName": "Francis Salas",
+    "username": "francis_salas",
+    "email": "francis_salas@ecrater.gov",
+    "phone": "07081279820",
+    "bvn": "95659421367",
+    "gender": "Female",
+    "dateJoined": "Mar 13, 2025 03:50 AM",
+    "status": "Pending",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 3,
+        "residence": "Owned Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "HND",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Finance and Banking",
+        "durationOfEmployment": "4 years",
+        "monthlyIncome": "₦42287 - ₦363432",
+        "loanRepayment": "₦53526"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Dawn Coffey",
+        "phone": "07074750402",
+        "email": "dawn_coffey@gmail.com",
+        "relationship": "Friend"
+      }
+    },
+    "createdAt": "2019-03-10T01:00:21.922Z"
+  },
+  {
+    "id": "695ed76fd29a2fbecbf85ec3",
+    "organization": "Delphide",
+    "fullName": "Casey Webb",
+    "username": "casey_webb",
+    "email": "casey_webb@delphide.berlin",
+    "phone": "07050670476",
+    "bvn": "93052066623",
+    "gender": "Male",
+    "dateJoined": "Nov 30, 2024 02:16 PM",
+    "status": "Inactive",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 3,
+        "residence": "Rented Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "HND",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Research and Development (R&D)",
+        "durationOfEmployment": "5 years",
+        "monthlyIncome": "₦90171 - ₦429126",
+        "loanRepayment": "₦24865"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Kerry Robinson",
+        "phone": "07011490407",
+        "email": "kerry_robinson@gmail.com",
+        "relationship": "Parent"
+      }
+    },
+    "createdAt": "2018-05-09T13:51:04.016Z"
+  },
+  {
+    "id": "695ed76fc9e76986b3275d35",
+    "organization": "Fanfare",
+    "fullName": "Scott Morrow",
+    "username": "scott_morrow",
+    "email": "scott_morrow@fanfare.creditcard",
+    "phone": "07072092549",
+    "bvn": "59277841561",
+    "gender": "Female",
+    "dateJoined": "Feb 17, 2022 03:35 AM",
+    "status": "Pending",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 4,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "HND",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Utilities (Power, Water, Waste)",
+        "durationOfEmployment": "5 years",
+        "monthlyIncome": "₦25134 - ₦377632",
+        "loanRepayment": "₦81039"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Puckett Roman",
+        "phone": "07054925841",
+        "email": "puckett_roman@gmail.com",
+        "relationship": "Sister"
+      }
+    },
+    "createdAt": "2023-04-17T12:27:37.243Z"
+  },
+  {
+    "id": "695ed76f80c3b70c5107c1d3",
+    "organization": "Motovate",
+    "fullName": "Fulton Mckee",
+    "username": "fulton_mckee",
+    "email": "fulton_mckee@motovate.fyi",
+    "phone": "07022416370",
+    "bvn": "14937413226",
+    "gender": "Female",
+    "dateJoined": "Sep 21, 2025 05:42 AM",
+    "status": "Blacklisted",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Single",
+        "children": 0,
+        "residence": "Owned Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Engineering",
+        "durationOfEmployment": "4 years",
+        "monthlyIncome": "₦57750 - ₦202067",
+        "loanRepayment": "₦80511"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Annabelle Key",
+        "phone": "07050663267",
+        "email": "annabelle_key@gmail.com",
+        "relationship": "Friend"
+      }
+    },
+    "createdAt": "2020-01-04T05:55:59.603Z"
+  },
+  {
+    "id": "695ed76f757c83028b8d3166",
+    "organization": "Isoternia",
+    "fullName": "Lorraine Meyer",
+    "username": "lorraine_meyer",
+    "email": "lorraine_meyer@isoternia.eh",
+    "phone": "07092578177",
+    "bvn": "41463855745",
+    "gender": "Female",
+    "dateJoined": "Jul 31, 2019 11:55 PM",
+    "status": "Inactive",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 1,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Employed",
+        "sectorOfEmployment": "Fishing",
+        "durationOfEmployment": "1 years",
+        "monthlyIncome": "₦35845 - ₦439966",
+        "loanRepayment": "₦21475"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Theresa Mejia",
+        "phone": "07051112897",
+        "email": "theresa_mejia@gmail.com",
+        "relationship": "Parent"
+      }
+    },
+    "createdAt": "2025-06-16T03:01:18.695Z"
+  },
+  {
+    "id": "695ed76fcc8ecb825e78907b",
+    "organization": "Songbird",
+    "fullName": "Claudine Hess",
+    "username": "claudine_hess",
+    "email": "claudine_hess@songbird.ovh",
+    "phone": "07077039382",
+    "bvn": "89869384196",
+    "gender": "Female",
+    "dateJoined": "Jun 24, 2025 01:15 PM",
+    "status": "Pending",
+    "details": {
+      "personalInfo": {
+        "maritalStatus": "Married",
+        "children": 3,
+        "residence": "Parent’s Apartment"
+      },
+      "educationAndEmployment": {
+        "levelOfEducation": "M.Sc",
+        "employmentStatus": "Unemployed",
+        "sectorOfEmployment": "Hospitality (Hotels and Restaurants)",
+        "durationOfEmployment": "2 years",
+        "monthlyIncome": "₦44350 - ₦219223",
+        "loanRepayment": "₦42324"
+      },
+      "socials": {
+        "twitter": "@",
+        "instagram": "@"
+      },
+      "guarantor": {
+        "fullName": "Coleen Howe",
+        "phone": "07081183248",
+        "email": "coleen_howe@gmail.com",
+        "relationship": "Brother"
+      }
+    },
+    "createdAt": "2020-05-20T11:39:08.154Z"
+  }
+]

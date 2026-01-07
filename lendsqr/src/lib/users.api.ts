@@ -1,5 +1,5 @@
 export const getUsers = async () => {
-  const res = await fetch("/api/users", {
+  const res = await fetch(`${process.env.NEXT_PUBLIC_APP_URL}/api/users`, {
     cache: "no-store",
   });
 
@@ -11,13 +11,13 @@ export const getUsers = async () => {
 };
 
 export const getUserById = async(id: string) => {
-    const users = await getUsers()
+  const res = await fetch(`${process.env.NEXT_PUBLIC_APP_URL}/api/users/${id}`, {
+    cache: "no-store",
+  });
 
-    const user = users.find((u: any) => u.id === id)
+  if (!res.ok) {
+    throw new Error("Failed to fetch user");
+  }
 
-    if (!user) {
-        throw new Error(`User not found`)
-    }
-
-    return user;
-}
+  return res.json();
+};

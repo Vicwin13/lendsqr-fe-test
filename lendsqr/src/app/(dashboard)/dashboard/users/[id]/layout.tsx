@@ -22,7 +22,10 @@ export default async function UserLayout({
     let user;
     try {
         user = await getUserById(id);
+        console.log("User ID:", id);
+        console.log("Found user:", user);
     } catch (error) {
+        console.error("Error fetching user:", error);
         return (
             <div>
                 <div className={style.links}>

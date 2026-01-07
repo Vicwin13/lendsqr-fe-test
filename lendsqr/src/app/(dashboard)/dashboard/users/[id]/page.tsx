@@ -3,13 +3,7 @@
 import style from "./layout.module.scss";
 import { useUser } from "@/lib/UserContext";
 
-type Props = {
-  params: {
-    id: string;
-  };
-};
-
-export default function GeneralDetailsPage({ params }: Props) {
+export default function GeneralDetailsPage() {
   const user = useUser();
 
   if (!user) {
