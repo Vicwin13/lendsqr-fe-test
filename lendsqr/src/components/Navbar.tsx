@@ -21,7 +21,7 @@ export default function Navbar() {
   return (
     <nav className={style.navbar}>
 
-      <div>
+      <div className={style.logo}>
         <Image
           src={"/Group.svg"}
           alt={"Logo"}
@@ -40,12 +40,13 @@ export default function Navbar() {
         </div>
       </div>
       <div className={style.last_nav_items}>
-        <Link href={"#"}> Docs</Link>
+        <Link href={"#"} className={style.docs}> Docs</Link>
 
-        <Image src={"/np_notification.svg"} 
+        <Image src={"/np_notification.svg"}
           alt={"notification icons"}
           width={26}
           height={26}
+          className={style.notification}
         />
 
         <div className={style.profile}>

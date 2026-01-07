@@ -10,11 +10,11 @@ export default function DashboardLayout({
     children: React.ReactNode;
     }) {
     return (
-        <ProtectedRoute>   
+        <ProtectedRoute>
             <Navbar />
-            <div style={{display: 'flex', alignItems:"flex-start", justifyContent: "flex-start"}}>
+            <div style={{display: 'flex', alignItems:"flex-start", gap:"30px"}}>
             <Sidebar/>
-            <main>{children}</main>
+            <main style={{overflowX: 'auto'}}>{children}</main>
             </div>
         </ProtectedRoute>
     )

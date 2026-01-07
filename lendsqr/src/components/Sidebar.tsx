@@ -1,12 +1,28 @@
 import { businessItems, customerItems, dashboardItems, settingsItems } from "./sideItems"
+import { useEffect, useState } from "react"
 
 import Image from "next/image"
 import SidebarItem from "./sidebarItem"
 import style from "./sidebar.module.scss"
-import { useState } from "react"
 
 function Sidebar() {
   const [collapsed, setCollapsed] = useState(false);
+
+  useEffect(() => {
+    const handleResize = () => {
+      if (window.innerWidth < 800) {
+        setCollapsed(true);
+      }
+    };
+
+    handleResize();
+
+    window.addEventListener('resize', handleResize);
+
+    return () => {
+      window.removeEventListener('resize', handleResize);
+    };
+  }, []);
 
   return (
     <aside className={` ${style.sidebar} ${collapsed ? style.collapsed : ""}`}>

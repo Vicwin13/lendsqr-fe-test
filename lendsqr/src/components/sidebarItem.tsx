@@ -18,9 +18,10 @@ export default function SidebarItem({
     icon,
     collapse
 }: Props) {
-    
+
     const pathname = usePathname();
-    const isActive = pathname === href;
+    // Only use startsWith for nested routes, not for exact matches
+    const isActive = pathname === href || (href !== '/dashboard' && pathname.startsWith(href + '/'));
 
   return (
       <Link href={href} className={ ` ${style.each_item} ${isActive ? style.active: ""}` }>

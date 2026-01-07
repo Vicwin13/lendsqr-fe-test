@@ -1,0 +1,69 @@
+@use "../style/variables.scss" as *;
+
+
+.popover{
+    position: absolute;
+    background: white;
+    z-index: 100;
+    width: 270px;
+    border: 1px solid #545F7D24;
+    box-shadow: 3, 5, 20, 0 rgba(0, 0, 0, 0.4);
+    padding: 30px 20px;
+    border-radius: 4px;
+
+}
+
+
+.cell{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    padding-top: 10px;
+    font-family: $font-work-sans;
+    input, select{
+        border-radius: 8px;
+        border: 1px solid #555;
+        // opacity: 80%;
+        height: 40px;
+        padding-left: 10px;
+        font-family: $font-work-sans;
+        color: $second-accent;
+        background: white;
+    }
+    label{
+        color: $second-accent;
+        font-weight: 500;
+        font-size: 14px;
+        font-family: $font-work-sans;
+    }
+}
+
+.action{
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    padding-top: 30px;
+
+    button:nth-child(1){
+        border: 1px solid $second-accent;
+        border-radius: 8px;
+        padding: 12px 30px;
+        font-size: 14px;
+        font-weight: 600;
+        font-family: $font-work-sans;
+        line-height: 100%;
+        color: $second-accent;
+    }
+
+  button:nth-child(2){
+        background-color: $primary-color;
+        border: none;
+        border-radius: 8px;
+        padding: 12px 30px;
+        font-size: 14px;
+        font-weight: 600;
+        font-family: $font-work-sans;
+        line-height: 100%;
+        color: white;
+  }
+}

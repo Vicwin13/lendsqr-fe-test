@@ -1,0 +1,56 @@
+@use "../style/variables.scss" as *;
+
+
+
+
+.card{
+    width: 180px;    
+    border: 1px solid #213F7D0F;
+    padding: 20px 30px;
+    border-radius: 8px;
+
+
+    .image{
+        background-color: rgb(224, 222, 222);
+        width: 40px;
+        height: 40px;
+        border-radius: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      
+    }
+
+    .pink{
+        background-color: rgba(223, 24, 255, .1);
+    }
+    .purple{
+        background-color: rgba(87, 24, 255, .1) ;
+    }
+    .orange{
+        background-color: rgba(245, 95, 68, .1) ;
+    }
+    .red{
+        background-color: rgba(255, 51, 102, .1);
+    }
+
+}
+
+.label{
+    font-size: 14px;
+    letter-spacing: 0%;
+    text-transform: uppercase;
+    color: $second-accent;
+    font-weight: 500;
+    font-family: $font-work-sans
+
+}
+
+.value{
+    font-size: 24px;
+    font-weight: 600;
+    font-family: $font-work-sans;
+    letter-spacing: 0%;
+    line-height: 100%;
+    color: $accent-color;
+}

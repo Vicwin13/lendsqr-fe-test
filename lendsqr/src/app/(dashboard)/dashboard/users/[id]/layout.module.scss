@@ -1,0 +1,238 @@
+@use "../../../../../style/variables.scss" as *;
+
+
+.container{
+    font-family: $font-work-sans;
+    width: 950px;
+}
+.action{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.links{
+    display: flex;
+    padding-top: 2rem;
+    align-items: center;
+    .back{
+        text-decoration: none;
+        display: flex;
+        align-items: center;
+        gap: 1rem;
+        color: $second-accent;
+        cursor: pointer;
+    }
+}
+.banner{
+    max-width: max-content;
+    width: 4500px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+
+
+    hr{
+        width: 80px;
+        transform:rotate(90deg);
+        border: 1px solid #545F7D;
+        opacity: 20%;
+    }
+    .profile{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 20px;
+
+        
+        .fullname{
+            font-family: $font-work-sans ;
+            font-weight: 500;
+            font-size: 22px;
+            line-height: 100%;
+            color: $accent-color;
+            margin-top: 0;
+        }
+        .Uid{
+            font-family: $font-work-sans ;
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 100%;
+            color: $second-accent;
+            margin-top: -10px;           
+        }
+        .avatar{
+            width: 100px;
+            height: 100px;
+            background-color: rgb(33, 63, 125, .2);
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+
+    .tier{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+            font-family: $font-work-sans ;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 100%;
+            color: $accent-color;
+    }
+
+    .amount{
+            font-family: $font-work-sans ;
+            font-weight: 500;
+            font-size: 22px;
+            line-height: 100%;
+            color: $accent-color;
+            margin-top: 7px;
+    }
+.bank{
+               font-family: $font-work-sans ;
+            font-weight: 400;
+            font-size: 12px;
+            line-height: 100%;
+            color: $accent-color;
+            margin-top: -7px;
+}
+
+
+
+}
+
+.bigBanner{
+    box-shadow: 3px 5px 20px 0px #0000000A;
+    padding: 20px 20px 0px 20px;
+}
+.navTabs{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 51px;
+    text-decoration: none;
+    
+ .link{
+    text-decoration: none;
+    color: $second-accent;
+    padding-bottom: 4px;
+    border-bottom: 2px solid transparent;
+
+    &.active {
+        color: $primary-color;
+        border-bottom-color: $primary-color;
+    }
+ }
+}
+
+.usd{
+               font-family: $font-work-sans ;
+            font-weight: 500;
+            font-size: 24px;
+            line-height: 100%;
+            color: $accent-color;
+            padding: 26px 0px 46px 0px;
+}
+.actionUser{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+
+
+    .blacklist{
+        border: 1px solid #E4033B;
+        border-radius: 8px;
+        font-family: $font-work-sans ;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 100%;
+        color: $accent-color;
+        text-transform: uppercase;
+        color: #E4033B;
+            padding: 12px 16px;
+            background-color: white;
+}
+
+.activate{
+    border: 1px solid #39CDCC;
+    border-radius: 8px;
+    font-family: $font-work-sans ;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 100%;
+    color: $accent-color;
+    text-transform: uppercase;
+    color: #39CDCC;
+    padding: 12px 16px;
+    background-color: white;
+}
+}
+
+.overall_container{
+   box-shadow: 3px 5px 20px 0px #0000000A;
+   margin-top: 20px;
+    padding: 30px;
+
+    h3{
+        font-family: $font-work-sans;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 100%;
+        letter-spacing: 0px;
+        color: $second-accent;
+    }
+
+  .pInfo, .eduInfo, .socialInfo, .guarantorInfo {
+    
+    // display: flex;
+    // gap: 50px;
+    // align-items: center;
+    // justify-content: flex-start;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 10px 30px;
+  }
+  
+  .personalInfo p:nth-child(1), 
+  .eduInfo p:nth-child(1),
+  .socialInfo p:nth-child(1),
+  .guarantorInfo p:nth-child(1)
+  {
+    font-family: $font-work-sans;
+    font-weight: 400;
+    line-height: 100%;
+    font-size: 12px;
+    letter-spacing: 0px;
+    color: $second-accent;
+    text-transform: uppercase;
+
+  }
+
+    .personalInfo p:nth-child(2), 
+    .eduInfo p:nth-child(2), 
+    .socialInfo p:nth-child(2),
+    .guarantorInfo p:nth-child(2)
+    {
+    font-family: $font-work-sans;
+    font-weight: 500;
+    line-height: 100%;
+    font-size: 16px;
+    letter-spacing: 0px;
+    color: $second-accent;
+    
+
+  }
+
+
+  .personalInfo, .educationInfo, .socialInfoCont, .guarantorInfoCont{
+    border-bottom: 1px solid rgb(33, 63, 125, 0.1);
+    padding-bottom: 25px;
+    
+  }
+}
+

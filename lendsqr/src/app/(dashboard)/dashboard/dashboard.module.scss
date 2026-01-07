@@ -1,0 +1,145 @@
+@use "../../../style/variables.scss" as *;
+
+
+.head{
+    font-weight: 500;
+    font-size: 24px;
+    font-family: $font-work-sans;
+    letter-spacing: 0;
+    color: $accent-color;
+
+}
+
+.table-container{
+    padding: 20px;
+    box-shadow: 0px 0px 5px 1px $border-color;
+    font-family: $font-work-sans;
+    text-align: left;
+    margin-top: 40px;
+    
+   
+    table{
+
+      width: 100%;
+    }
+
+    tr > th{
+        color: $second-accent;
+        text-transform: uppercase;
+        letter-spacing: 0;
+        font-size: 12px;
+        line-height: 100%;
+        font-weight: 600;
+        font-family: $font-work-sans;
+        padding: 0px 4px;
+        padding-bottom: 20px;
+        
+        
+    }
+   
+    tbody > tr > td{
+        border-bottom: 1px solid $border-color;
+        padding: 20px 0;
+        letter-spacing: 0;
+        line-height: 100%;
+        font-size: 14px;
+        font-weight: 400;
+        color: $second-accent;
+        padding: 20px 5px;
+    }
+
+    tbody > tr:last-child > td{
+        border-bottom: none;
+    }
+}
+
+.filter{
+    background-color: transparent ;
+    border: none;
+    cursor: pointer;
+    
+}
+
+.headings{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    justify-content: flex-start;
+}
+.row{
+  cursor: pointer;
+}
+.users{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 10px;
+}
+
+.bottom{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 20px;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: $second-accent;
+    font-family: $font-work-sans;
+}
+
+.paginationControls {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    font-family: $font-work-sans;
+  button{
+    border: none;
+    background: none;
+  }
+
+  .arrow{
+    width: 24px;
+    height: 24px;
+    border-radius: 4px;
+    background-color: #213F7D1A;
+    cursor: pointer;
+  }
+
+  .activePage {
+  background: #39cdcc;
+  color: white;
+  border-radius: 4px;
+}
+}
+
+.status {
+  padding: 6px 12px;
+  border-radius: 100px;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 100%;
+  display: inline-block;
+}
+
+.active {
+  color: #39cd62;
+  background-color: rgba(57, 205, 98, 0.1);
+}
+
+.pending {
+  color: #e9b200;
+  background-color: rgba(233, 178, 0, 0.1);
+}
+
+.inactive {
+  color: #545f7d;
+  background-color: rgba(84, 95, 125, 0.1);
+}
+
+.blacklisted {
+  color: #e4033b;
+  background-color: rgba(228, 3, 59, 0.1);
+}
+
+
