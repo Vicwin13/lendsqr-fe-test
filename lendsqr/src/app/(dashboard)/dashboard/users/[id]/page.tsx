@@ -1,87 +1,16 @@
 "use client";
 
-import { useEffect, useState } from "react";
-
-import Skeleton from "@/components/Skeleton";
-import { getUserById } from "@/lib/users.api";
 import style from "./layout.module.scss";
+import { useUser } from "@/lib/UserContext";
 
 type Props = {
-  params: Promise<{
+  params: {
     id: string;
-  }>;
+  };
 };
 
 export default function GeneralDetailsPage({ params }: Props) {
-  const [user, setUser] = useState<any>(null);
-  const [loading, setLoading] = useState(true);
-  const [id, setId] = useState<string>("");
-
-  useEffect(() => {
-    async function fetchUser() {
-      const resolvedParams = await params;
-      const userId = resolvedParams.id;
-      setId(userId);
-      try {
-        const userData = await getUserById(userId);
-        setUser(userData);
-      } catch (error) {
-        console.error("Failed to fetch user:", error);
-      } finally {
-        setLoading(false);
-      }
-    }
-    fetchUser();
-  }, [params]);
-
-  if (loading) {
-    return (
-      <div className={style.overall_container}>
-        <div className={style.personalInfo}>
-          <h3>Personal Information</h3>
-          <div className={style.pInfo}>
-            <Skeleton />
-            <Skeleton />
-            <Skeleton />
-            <Skeleton />
-            <Skeleton />
-            <Skeleton />
-            <Skeleton />
-            <Skeleton />
-          </div>
-        </div>
-        <div className={style.educationInfo}>
-          <h3>Education and Employment</h3>
-          <div className={style.eduInfo}>
-            <Skeleton />
-            <Skeleton />
-            <Skeleton />
-            <Skeleton />
-            <Skeleton />
-            <Skeleton />
-            <Skeleton />
-          </div>
-        </div>
-        <div className={style.socialInfoCont}>
-          <h3>Socials</h3>
-          <div className={style.socialInfo}>
-            <Skeleton />
-            <Skeleton />
-            <Skeleton />
-          </div>
-        </div>
-        <div className={style.guarantorInfoCont}>
-          <h3>Guarantor</h3>
-          <div className={style.guarantorInfo}>
-            <Skeleton />
-            <Skeleton />
-            <Skeleton />
-            <Skeleton />
-          </div>
-        </div>
-      </div>
-    );
-  }
+  const user = useUser();
 
   if (!user) {
     return <div>User not found</div>;

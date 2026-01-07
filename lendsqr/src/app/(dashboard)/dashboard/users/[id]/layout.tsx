@@ -4,22 +4,23 @@ import Image from "next/image";
 import Link from "next/link";
 import { MoveLeft } from 'lucide-react';
 import NavTabs from "./NavTabs"
+import { UserProvider } from "@/lib/UserContext";
 import { UserRound } from "lucide-react";
 import { getUserById } from "@/lib/users.api";
 import style from "./layout.module.scss"
 
 type Props = {
-    params: Promise<{
+    params: {
         id: string;
-    }>
-    children: React.ReactNode
-}
+    };
+    children: React.ReactNode;
+};
 
 export default async function UserLayout({
   children,
   params,
 }: Props) {
-    const { id } = await params;
+    const { id } = params;
     let user;
     try {
         user = await getUserById(id);
@@ -99,8 +100,11 @@ export default async function UserLayout({
       <NavTabs id={id} />
 </div>
 
-
-      <div className={""}>{children}</div>
+      <div className={""}>
+        <UserProvider user={user}>
+          {children}
+        </UserProvider>
+      </div>
     </div>
   );
 }

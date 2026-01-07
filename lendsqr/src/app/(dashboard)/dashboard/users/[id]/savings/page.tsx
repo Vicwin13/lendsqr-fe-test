@@ -1,9 +1,9 @@
 import styles from '@/style/additions.module.scss';
 
 type Props = {
-  params: Promise<{
+  params: {
     id: string;
-  }>;
+  };
 };
 
 export default async function Savings({ params }: Props) {
