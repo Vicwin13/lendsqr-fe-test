@@ -1,5 +1,3 @@
-// app/dashboard/users/[id]/layout.tsx
-
 import Image from "next/image";
 import Link from "next/link";
 import { MoveLeft } from 'lucide-react';
@@ -10,9 +8,9 @@ import { getUserById } from "@/lib/users.api";
 import style from "./layout.module.scss"
 
 type Props = {
-    params: {
+    params: Promise<{
         id: string;
-    };
+    }>;
     children: React.ReactNode;
 };
 
@@ -20,7 +18,7 @@ export default async function UserLayout({
   children,
   params,
 }: Props) {
-    const { id } = params;
+    const { id } = await params;
     let user;
     try {
         user = await getUserById(id);
