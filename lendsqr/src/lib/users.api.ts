@@ -1,23 +1,29 @@
+const MOCKY_URL = `https://mocki.io/v1/6711c42c-4272-4848-a2f8-d586326c4bfd`;
+
+
 export const getUsers = async () => {
-  const res = await fetch(`${process.env.NEXT_PUBLIC_APP_URL}/api/users`, {
+ 
+  try {
+    const res = await fetch(`${MOCKY_URL}`, {
     cache: "no-store",
   });
 
   if (!res.ok) {
     throw new Error("Failed to fetch users");
-  }
+    }
+    
+    return res.json();
+  } catch (error) {
+    console.error("Mocky fetch failed")
+    return [];
+ }
+ 
+ 
 
-  return res.json();
 };
 
 export const getUserById = async(id: string) => {
-  const res = await fetch(`${process.env.NEXT_PUBLIC_APP_URL}/api/users/${id}`, {
-    cache: "no-store",
-  });
+  const user = await getUsers()
 
-  if (!res.ok) {
-    throw new Error("Failed to fetch user");
-  }
-
-  return res.json();
+  return user.find((u: any) => String(u.id) ===  String(id));
 };

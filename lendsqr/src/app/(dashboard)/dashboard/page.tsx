@@ -1,8 +1,10 @@
 "use client";
 
+import ActionMenu, { MenuItem } from "@/components/ActionMenu";
 import { ChevronLeft, ChevronRight, EllipsisVertical } from "lucide-react"
 import { useEffect, useState } from "react";
 
+import { Eye } from 'lucide-react';
 import FilterPopover from "@/components/FilterPopover";
 import Image from "next/image";
 import Skeleton from "@/components/Skeleton";
@@ -24,6 +26,9 @@ export default function Dashboard() {
   const [loading, setLoading] = useState<boolean>(true);
   const [currentPage, setCurrentPage] = useState(1);
   const [pageSize, setPageSize] = useState(10);
+  const [actionMenuOpen, setActionMenuOpen] = useState<boolean>(false);
+  const [actionMenuPosition, setActionMenuPosition] = useState({ top: 0, left: 0 });
+  const [activeUserId, setActiveUserId] = useState<string | null>(null);
 
 
   const totalUsers = filteredUsers.length;
@@ -49,7 +54,7 @@ export default function Dashboard() {
   ) => {
     const rect = e.currentTarget.getBoundingClientRect();
 
-    console.log('I am clicked on')
+    
     setFilterPosition({
       top: rect.bottom + window.scrollY + 8,
       left: rect.left + window.scrollX,
@@ -150,6 +155,46 @@ useEffect(() => {
     new Set(users.map((u)=> u.organization))
   )
 
+  const handleActionMenuClick = (
+    e: React.MouseEvent<SVGSVGElement>,
+    userId: string
+  ) => {
+    e.stopPropagation();
+    const rect = e.currentTarget.getBoundingClientRect();
+    setActionMenuPosition({
+      top: rect.bottom + window.scrollY + 5,
+      left: rect.left + window.scrollX - 130,
+    });
+    setActiveUserId(userId);
+    setActionMenuOpen(true);
+  };
+
+  const actionMenuItems: MenuItem[] = [
+    {
+      text: "View Details",
+      icon: "/eye(1).svg",
+      onClick: () => {
+        if (activeUserId) {
+          router.push(`/dashboard/users/${activeUserId}`);
+        }
+      },
+    },
+    {
+      text: "Blacklist user",
+      icon: "/user-times1.svg",
+      onClick: () => {
+        toast.success("User blacklisted");
+      },
+    },
+    {
+      text: "Activate user",
+      icon: "/user-check1.svg",
+      onClick: () => {
+        toast.success("User activated");
+      },
+    },
+  ];
+
 
   return (
     <div>
@@ -201,8 +246,18 @@ useEffect(() => {
               setFilters={setFilters}
               onClose={() => setFilterOpen(false)}
               position={filterPosition}
-              onApply={applyFilters} 
+              onApply={applyFilters}
               onReset={resetFilters}
+            />
+          )
+        }
+        {
+          actionMenuOpen && (
+            <ActionMenu
+              isOpen={actionMenuOpen}
+              onClose={() => setActionMenuOpen(false)}
+              position={actionMenuPosition}
+              items={actionMenuItems}
             />
           )
         }
@@ -214,7 +269,11 @@ useEffect(() => {
 
                 Organization
                   <button className={styles.filter}
-                  onClick={(e) => handleFilterClick(e, "organization")}
+                    onClick={(e) =>
+                    {
+                      e.stopPropagation()
+                      handleFilterClick(e, "organization")
+                    }}
                   >
 
                 <Image
@@ -231,7 +290,10 @@ useEffect(() => {
 
                 Username
 
-                <button className={styles.filter} onClick={(e) => handleFilterClick(e, "username")}>
+                  <button className={styles.filter} onClick={(e) => {
+                    e.stopPropagation()
+                    handleFilterClick(e, "username")
+                  }}>
 
                 <Image
                     src={"filter-results-button.svg"}
@@ -246,7 +308,10 @@ useEffect(() => {
                 <div className={styles.headings}>
 
                 Email
-                <button className={styles.filter} onClick={(e) => handleFilterClick(e, "email")}>
+                  <button className={styles.filter} onClick={(e) => {
+                    e.stopPropagation()
+                    handleFilterClick(e, "email")
+                  }}>
 
                 <Image
                     src={"filter-results-button.svg"}
@@ -262,7 +327,10 @@ useEffect(() => {
 
                 Phone
                   <button className={styles.filter}
-                  onClick={(e) => handleFilterClick(e, "phone")}>
+                    onClick={(e) => {
+                      e.stopPropagation()
+                      handleFilterClick(e, "phone")
+                    }}>
 
                 <Image
                     src={"filter-results-button.svg"}
@@ -277,7 +345,10 @@ useEffect(() => {
                 <div className={styles.headings}>
 
                 Date Joined
-                <button className={styles.filter} onClick={(e) => handleFilterClick(e, "date")}>
+                  <button className={styles.filter} onClick={(e) => {
+                    e.stopPropagation()
+                    handleFilterClick(e, "date")
+                  }}>
 
                 <Image
                     src={"filter-results-button.svg"}
@@ -292,7 +363,10 @@ useEffect(() => {
                 <div className={styles.headings}>
 
                 Status
-                <button className={styles.filter} onClick={(e) => handleFilterClick(e, "status")}>
+                  <button className={styles.filter} onClick={(e) => {
+                    
+                    handleFilterClick(e, "status")
+                  }}>
 
                 <Image
                     src={"filter-results-button.svg"}
@@ -328,9 +402,15 @@ useEffect(() => {
                   {user.status}
                   </span>
                   </td>
-                <td>
-                
-                <EllipsisVertical size={15} />
+                 <td>
+                  <EllipsisVertical
+                    size={15}
+                    style={{ cursor: "pointer" }}
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      handleActionMenuClick(e, user.id)
+                    }}
+                  />
                 </td>
               </tr>
             ))
