@@ -4,11 +4,14 @@ import { useEffect, useState } from "react";
 
 import Image from "next/image";
 import Link from "next/link";
+import { X } from "lucide-react";
 import { getUser } from "@/lib/auth";
 import style from "./navbar.module.scss"
+import { useSearch } from "@/lib/SearchContext";
 
 export default function Navbar() {
   const [name, setName] = useState<string>("");
+  const { searchQuery, setSearchQuery } = useSearch();
 
 
   useEffect(() => {
@@ -18,6 +21,15 @@ export default function Navbar() {
       setName(firstname);
     }
   },[])
+  
+  const handleSearchChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    setSearchQuery(e.target.value);
+  };
+
+  const handleClearSearch = () => {
+    setSearchQuery("");
+  };
+  
   return (
     <nav className={style.navbar}>
 
@@ -30,7 +42,21 @@ export default function Navbar() {
         />
       </div>
       <div className={style.search}>
-        <input type="text" placeholder="Search for anything" />
+        <input
+          type="text"
+          placeholder="Search for anything"
+          value={searchQuery}
+          onChange={handleSearchChange}
+        />
+        {/* {searchQuery && (
+          <button
+            className={style.clear_search}
+            onClick={handleClearSearch}
+            aria-label="Clear search"
+          >
+            <X size={14} />
+          </button>
+        )} */}
         <div className={style.search_icon}>
           <Image src={"/Vector.svg"}
             alt={"search icon"}

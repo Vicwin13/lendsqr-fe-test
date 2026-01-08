@@ -14,10 +14,12 @@ import { getUsers } from "@/lib/users.api";
 import styles from "./dashboard.module.scss";
 import { toast } from 'sonner';
 import { useRouter } from "next/navigation";
+import { useSearch } from "@/lib/SearchContext";
 
 export default function Dashboard() {
 
   const router = useRouter()
+  const { searchQuery } = useSearch();
   const [users, setUsers] = useState<User[]>([]);
   const [activeFilter, setActiveFilter] = useState<string | null>(null);
   const [filterPosition, setFilterPosition] = useState({ top: 0, left: 0 });
@@ -65,33 +67,6 @@ export default function Dashboard() {
   }
 
 const applyFilters = () => {
-  const filtered = users.filter((user) => {
-    return (
-      (!filters.organization ||
-        user.organization
-          .toLowerCase() === filters.organization.toLowerCase()) &&
-
-      (!filters.username ||
-        user.username
-          .toLowerCase()
-          .includes(filters.username.toLowerCase())) &&
-
-      (!filters.email ||
-        user.email.toLowerCase().includes(filters.email.toLowerCase())) &&
-
-      (!filters.phone ||
-        user.phone.includes(filters.phone)) &&
-
-      (!filters.status ||
-        user.status.toLowerCase() === filters.status.toLowerCase()) &&
-      (!filters.date || 
-        new Date(user.dateJoined).toISOString().split("T")[0] === filters.date
-      )
-    );
-  });
-
-  setFilterUsers(filtered);
-  setCurrentPage(1);
   setFilterOpen(false);
 };
 
@@ -106,8 +81,8 @@ const resetFilters = () => {
     date: "",
   });
 
-  setFilterUsers(users);
-  setCurrentPage(1)
+  // Note: We don't clear searchQuery here as it's managed by the SearchContext
+  // The useEffect will handle filtering based on the current searchQuery and filters
   setFilterOpen(false);
 };
 
@@ -117,7 +92,7 @@ const resetFilters = () => {
 
 
 
-useEffect(() => { 
+useEffect(() => {
   async function fetchUsers() {
     try {
         const data = await getUsers();
@@ -126,7 +101,7 @@ useEffect(() => {
         setLoading(false);
         toast.success("Users fetched successfully.");
       }
-      catch (error) { 
+      catch (error) {
         toast.error("Failed to fetch users.");
       } finally {
         setLoading(false);
@@ -134,6 +109,51 @@ useEffect(() => {
     }
     fetchUsers();
   },[])
+
+  // Filter users based on search query and filters
+  useEffect(() => {
+    // First apply search query filter if present
+    let baseUsers = users;
+    if (searchQuery.trim() !== "") {
+      const query = searchQuery.toLowerCase();
+      baseUsers = users.filter((user) => {
+        return (
+          user.organization.toLowerCase().includes(query) ||
+          user.username.toLowerCase().includes(query) ||
+          user.email.toLowerCase().includes(query)
+        );
+      });
+    }
+
+    // Then apply additional filters
+    const filtered = baseUsers.filter((user) => {
+      return (
+        (!filters.organization ||
+          user.organization
+            .toLowerCase() === filters.organization.toLowerCase()) &&
+
+        (!filters.username ||
+          user.username
+            .toLowerCase()
+            .includes(filters.username.toLowerCase())) &&
+
+        (!filters.email ||
+          user.email.toLowerCase().includes(filters.email.toLowerCase())) &&
+
+        (!filters.phone ||
+          user.phone.includes(filters.phone)) &&
+
+        (!filters.status ||
+          user.status.toLowerCase() === filters.status.toLowerCase()) &&
+        (!filters.date ||
+          new Date(user.dateJoined).toISOString().split("T")[0] === filters.date
+        )
+      );
+    });
+
+    setFilterUsers(filtered);
+    setCurrentPage(1);
+  }, [searchQuery, filters, users]);
 
 
   const getStatus = (status: string) => {

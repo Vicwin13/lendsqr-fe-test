@@ -16,6 +16,7 @@
     font-family: $font-work-sans;
     text-align: left;
     margin-top: 40px;
+    min-width: max-content;
     
    
     table{
@@ -143,3 +144,10 @@
 }
 
 
+@media screen and (width <= 500px) {
+  .bottom{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+}

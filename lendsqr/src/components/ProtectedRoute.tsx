@@ -22,7 +22,6 @@ export default function ProtectedRoute({ children }: Props) {
     }
   }, [router]);
 
-  // Don't render anything while checking authentication or if not authenticated
   if (isAuthenticated === null || isAuthenticated === false) {
     return null;
   }

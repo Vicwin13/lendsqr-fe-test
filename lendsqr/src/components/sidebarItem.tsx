@@ -30,6 +30,7 @@ export default function SidebarItem({
               alt={"icon"}
               width={16}
               height={16}
+              className={style.icons}
           />
           {!collapse && <span>{label}</span> }
       </Link>

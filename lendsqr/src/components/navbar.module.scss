@@ -19,7 +19,7 @@
         display: flex;
         align-items: center;
         width: 300px;
-        height: 39px;
+        height: 36px;
         
         input{
             height: 36px;
@@ -32,6 +32,26 @@
             color: $second-accent;
             letter-spacing: 0px;
             font-size: 14px;
+            
+            &:focus,
+            &:focus-visible,
+            &:focus-within {
+                outline: none;
+                // border-color: transparent;
+            }
+        }
+        .clear_search{
+            background: transparent;
+            border: none;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            padding: 0 8px;
+            color: $second-accent;
+            &:hover {
+                color: $primary-color;
+            }
         }
         .search_icon{
             background-color: $primary-color;
@@ -100,7 +120,8 @@
         .search {
             input{
                 width: 150px;
-                height: 32px;
+                height: 36.5px;
+                
             }
         }
         .search_icon{
@@ -119,3 +140,15 @@
     }
 }
 
+@media screen and (width <= 490px){
+    .navbar{
+
+        .search{
+            input{
+                display: none;
+            }
+            .search_icon{display: none;}
+        }
+        
+    }   
+}
