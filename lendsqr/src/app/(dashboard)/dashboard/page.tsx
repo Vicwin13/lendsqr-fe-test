@@ -213,25 +213,25 @@ useEffect(() => {
           <UserCards
             icon={"/np_users.svg"}
             label={"users"}
-              value={"2,453"}
+              value={users.length.toLocaleString()}
               variant="pink"
             />
             <UserCards
             icon={"/Group(1).svg"}
             label={"active"}
-            value={"2,453"}
+            value={users.filter(u => u.status.toLowerCase() === "active").length.toLocaleString()}
             variant="purple"
             />
             <UserCards
             icon={"/Group(2).svg"}
             label={"users with loans"}
-              value={"12,453"}
+              value={users.filter(u => u.details.educationAndEmployment.loanRepayment).length.toLocaleString()}
               variant="orange"
             />
             <UserCards
             icon={"/Group(3).svg"}
             label={"users with savings"}
-              value={"102,453"}
+              value={"53"}
               variant="red"
             />
         </>
